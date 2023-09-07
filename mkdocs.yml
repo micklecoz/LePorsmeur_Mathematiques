@@ -1,12 +1,12 @@
 # Fichier de configuration du site à personnaliser
 ### Configuration minimale
-site_name: Obsidian vers MkDocs # Nom du site <70 caractères, apparait dans l'onglet du navigateur
-site_url: https://ericecmorlaix.github.io/simple_template_obsidian_mkdocs/ # Adresse web principale de publication du site, à modifier au format https://votre-pseudo-github.github.io/nom-depot/
+site_name: Mathematiques en lycée professionnel # Nom du site <70 caractères, apparait dans l'onglet du navigateur
+site_url: https://micklecoz.github.io/LePorsmeur_Mathematiques/ # Adresse web principale de publication du site, à modifier au format https://votre-pseudo-github.github.io/nom-depot/
 
 ### Configuration de métadonnées
 # Métadonnées de description <300 caratères, et d'auteur pour toutes les pages du site 
-site_description: Simple modèle de dépôt GitHub pour publier des notes d'Obsidian via MkDocs avec le thème Material
-site_author: "Eric MADEC"
+site_description: Vous trouverez ici les supports numériques de la matière Mathématiques (Seconde et Premiere)
+site_author: "Mickael LE COZ"
 
 ### Configuration du dépôt
 # Ajoute en haut à droite de chaque page du site, icône, nom et lien vers le dépot GitHub du projet.
