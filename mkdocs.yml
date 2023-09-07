@@ -10,8 +10,8 @@ site_author: "Mickael LE COZ"
 
 ### Configuration du dépôt
 # Ajoute en haut à droite de chaque page du site, icône, nom et lien vers le dépot GitHub du projet.
-repo_url: https://github.com/ericECmorlaix/simple_template_obsidian_mkdocs
-repo_name: 'simple_obsidian_mkdocs' # Personnalise le nom générique "GitHub" donné par défaut au lien vers le dépot GitHub du projet.
+repo_url: https://github.com/micklecoz.github.io/LePorsmeur_Mathematiques/
+repo_name: 'LePorsmeur_Mathematiques' # Personnalise le nom générique "GitHub" donné par défaut au lien vers le dépot GitHub du projet.
 # edit_uri: edit/main/docs/ # Complément au chemin pour aller depuis `repo_url:` jusqu'au répertoire `docs` ;
 # Ce qui permet avec MkDocs-Material d'ajouter un bouton (crayon) d'édition du code source.md d'une page du site depuis le navigateur
 # (edit => édition avec connexion | blob, tree => lecture anonyme)
@@ -136,7 +136,7 @@ extra:
     #   link: mailto:eric.madec@ecmorlaix.fr
     #   name: Pour toute question, suggestion ou commentaire, écrire à l'auteur
     - icon: fontawesome/brands/github
-      link: https://github.com/ericECmorlaix/
+      link: https://github.com/micklecoz/
       name: Compte GitHub
     # - icon: fontawesome/solid/school
     #   link: https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/
