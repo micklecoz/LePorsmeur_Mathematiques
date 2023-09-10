@@ -13,4 +13,6 @@
 
 [Activité-1](./1_Seq1_Act1.pdf)
 
+### Activite 2
+
 [Activité-2](./1_Seq1_Act2.pdf)
