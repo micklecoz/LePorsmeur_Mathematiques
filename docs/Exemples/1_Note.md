@@ -1,19 +1,17 @@
-# Note 1
+# Seconde
 
-## Quelques fonctionnalités
+# Sequence-1 _ Statistiques
 
-- [[0-Titres|Les titres]]
-- [[1-Texte|Le texte]]
-- [[2-Listes|Les listes]]
-- [[3-Admonitions|Les admonitions]]
-- [[4-LaTeX|LaTeX]]
-- [[5-Mermaid|Mermaid]]
-- [[6-Trucs|Autres trucs]]
- 
+## Cours
 
-## Autres
+[Cours Sequence-1](./2_Seq1_Co.pdf)
 
-- [[2_Note| Note 2 ]]
-- [[index|Accueil]]
-![[mkdocs-material.png]]
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_3eJ2FxvZc?si=yxMsNmG_EoUAjhk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## Activite 1
+
+
+
+[Activité-1](./2_Seq1_Act1.pdf)
 
