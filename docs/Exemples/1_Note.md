@@ -15,3 +15,4 @@
 
 [Activité-1](./2_Seq1_Act1.pdf)
 
+![[IM_Test_1.png]]
