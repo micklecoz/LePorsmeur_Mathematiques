@@ -16,3 +16,6 @@
 [Activité-1](./2_Seq1_Act1.pdf)
 
 ![[IM_Test_1.png]]
+![[IM_Test_2.png]]
+![[IM_Test_3.png]]
+![[IM_Test_4.png]]
