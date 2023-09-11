@@ -4,7 +4,7 @@
 
 ### Cours
 
-[Cours Sequence-1](./1_Seq1_Co.pdf)
+[Cours Sequence-1](./1_Seq1_Co.pdf){:target="_blank"}
 
 
 ### Activite 1
