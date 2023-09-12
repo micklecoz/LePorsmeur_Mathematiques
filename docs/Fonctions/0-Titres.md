@@ -1,10 +1,3 @@
-# Sequence-1_Acoustique
-
-## TP 1
-
-[Cours Sequence-1](./2_Sciences_Seq1_TP1.pdf){:target="_blank"}
-
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -114,3 +107,12 @@
 </body>
 
 </html>
+
+# Sequence-1_Acoustique
+
+## TP 1
+
+[Cours Sequence-1](./2_Sciences_Seq1_TP1.pdf){:target="_blank"}
+
+
+		
