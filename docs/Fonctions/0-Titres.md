@@ -10,7 +10,6 @@
 
 <script src="https://www.geogebra.org/apps/deployggb.js"></script>               
 <div id="ggb-element"></div>
-  
     var params = {
             "appName": "graphing", 
             "width": 800, 
