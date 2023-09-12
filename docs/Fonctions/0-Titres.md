@@ -8,11 +8,10 @@
 <meta name=viewport content="width=device-width,initial-scale=1">  
 <meta charset="utf-8"/>
 
-<script src="https://www.geogebra.org/apps/deployggb.js"></script>
-
+<script src="https://www.geogebra.org/apps/deployggb.js"></script>               
 <div id="ggb-element"></div>
   
- var params = {
+    var params = {
             "appName": "graphing", 
             "width": 800, 
             "height": 600, 
