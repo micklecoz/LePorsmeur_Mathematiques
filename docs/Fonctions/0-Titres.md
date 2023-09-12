@@ -1,47 +1,95 @@
+# Sequence-1_Acoustique
+
+## TP 1
+
+[TP1_Sequence-1](./2_Sciences_Seq1_TP1.pdf){:target="_blank"}
+
+
+<!DOCTYPE html>
 <html>
 
 <head>
-        <title>Dynamic Resources</title>
+        <title>Accessible Template</title>
+		<meta name="author" content="GeoGebra GmbH">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<script src="navigation.js"></script>
+		
+		<script type="text/javascript" src="https://www.geogebra.org/apps/deployggb.js"></script>
+		<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+		<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+		
+		<style>
+			body {
+				font-family: Roboto,sans-serif;
+				font-size: 18px;
+				float: left;
+				margin-left: 36px;
+			}
+			h2  {
+				color: blue;
+				font-size: 24px;
+				}
+			h3 {
+				color: blue;
+				font-size: 22px;
+			}
+		</style>
 </head>
 
-<body><div class="contentBox" id="contentBox">
-        <h1>Dynamic Resources</h1>
-        <p></p>
+<body>
+<div role="main">
 
-        <script type="text/javascript" src="https://www.geogebra.org/apps/deployggb.js"></script>
+<!-- SECTION 1: Title and Introduction Text -->
+<section class="section section-1" id="introduction" >
+  <div class="text" tabindex="1">
+    <h2 class="title">Explore the Integral</h2>
+	<p>Here is some explaining text about how to use the interactive figure. Maybe there's also a formula in the text and looks like this: </p>
 
+	<p>
+		 When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
+		\[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
+	</p>
+  </div>
+</section>
+
+<!-- SECTION 2: Interactive GeoGebra Figure -->
+<section class="section section-2" id="exercises">
+	<div id="interactive_figure1" tabindex="2"></div>
+</section>
+
+<!-- SECTION 3: Exercises for Students -->
+<section class="section section-3" id="exercises" >
+  <div class="text" tabindex="3">
+  <h3 >Exercises</h3>
+   <p>Here are some activities for students.</p>
+    </div>
+</section>
+
+</div> 
+<!--end main content section-->
+
+     
+<!--Footer-->
+<footer class="footer" role="contentinfo">
+    <p>Banner</p>
+</footer>
+
+
+
+
+
+<!-- GeoGebra Script inserting the interactive figure (GeoGebra applet) -->
         <script type="text/javascript">
-
 			 var parameters1 = {
                         "width":800,
                         "height":400,
+						"preventFocus":true,
                         "prerelease":false,
                         "showToolBar":false,
                         "borderColor":null,
                         "showMenuBar":false,
                         "showAlgebraInput":false,
                         "showResetIcon":true,
-                        "enableLabelDrags":false,
-                        "enableShiftDragZoom":false,
-                        "enableRightClick":false,
-                        "capturingThreshold":null,
-                        "showToolBarHelp":false,
-                        "errorDialogsActive":true,
-                        "useBrowserForJS":false,
-                        "material_id":"fnrdeekc"};
-                var applet1 = new GGBApplet(parameters1, true);
-              
-			  var parameters2 = {
-                        "width":800,
-                        "height":420,
-                        "prerelease":false,
-                        "showToolBar":false,
-                        "borderColor":null,
-                        "showMenuBar":false,
-                        "showAlgebraInput":false,
-                        "showResetIcon":true,
+						"showFullscreenButton":true,
                         "enableLabelDrags":false,
                         "enableShiftDragZoom":false,
                         "enableRightClick":false,
@@ -50,69 +98,12 @@
                         "errorDialogsActive":true,
                         "useBrowserForJS":false,
                         "material_id":"mktumd3r"};
-                var applet2 = new GGBApplet(parameters2, true);
-              //  when used with Math Apps Bundle, uncomment this:
-              //  applet.setHTML5Codebase('GeoGebra/HTML5/5.0/web/');
-				
-				var parameters3 = {
-                        "width":800,
-                        "height":470,
-                        "prerelease":false,
-                        "showToolBar":false,
-                        "borderColor":null,
-                        "showMenuBar":false,
-                        "showAlgebraInput":false,
-                        "showResetIcon":false,
-                        "enableLabelDrags":false,
-                        "enableShiftDragZoom":false,
-                        "enableRightClick":false,
-                        "capturingThreshold":null,
-                        "showToolBarHelp":false,
-                        "errorDialogsActive":false,
-                        "useBrowserForJS":false,
-                        "material_id":"cnehwm6d"};
-                var applet3 = new GGBApplet(parameters3, true);
-              //  when used with Math Apps Bundle, uncomment this:
-              //  applet.setHTML5Codebase('GeoGebra/HTML5/5.0/web/');
-
+                var applet1 = new GGBApplet(parameters1, true);   
+		
                 window.onload = function() { 
-					applet1.inject(applet_container1);
-					applet2.inject(applet_container2);
-					applet3.inject(applet_container3);
+					applet1.inject(interactive_figure1);
 					}
-				
-
         </script>
 		
-		
-		<p>
-			<h5>Animal</h5>
-		<div class="text">Move the sliders to change the parameters.</div>
-        <div id="applet_container1"></div>
-		</p>
-		<p>
-			<h5>Circles of a Triangle</h5>
-		<div class="text">Use the checkboxes to show the circles and their construction.</div>
-		<div id="applet_container2"></div>
-		</p>
-		
-		<p>
-			<h5>Tangram</h5>
-		<div class="text">Play the Tangram game with GeoGebra.</div>
-        <div id="applet_container3"></div>
-		</p>
-		
-	
-</div>
 </body>
-
-</html>
-
-# Sequence-1_Acoustique
-
-## TP 1
-
-[Cours Sequence-1](./2_Sciences_Seq1_TP1.pdf){:target="_blank"}
-
-
-		
+</html>		
