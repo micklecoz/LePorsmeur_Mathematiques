@@ -16,3 +16,8 @@
 ### Activite 2
 
 [Activité-2](./1_Seq1_Act2.pdf){:target="_blank"}
+
+
+### Activite 3
+
+[Activité-3](./1_Seq1_Act3.pdf){:target="_blank"}
