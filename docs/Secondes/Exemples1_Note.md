@@ -1,5 +1,3 @@
-# Seconde
-
 # Sequence-1 _ Statistiques
 
 ## Cours
