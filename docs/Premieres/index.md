@@ -19,3 +19,7 @@
 ## Activite 3
 
 [Activité-3](./1_Seq1_Act3.pdf){:target="_blank"}
+
+## Evaluation d'entraînement
+
+[Evaluation-Entraînement](./1_Seq1_EvaluationFormative.pdf){:target="_blank"}
