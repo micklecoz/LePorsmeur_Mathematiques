@@ -1,4 +1,4 @@
-# Mathématiques en Lycée Professionnel
+# Mathématiques & Physique-Chimie en Lycée Professionnel
 
 
 Le site est visible à l'adresse : <https://micklecoz.github.io/LePorsmeur_Mathematiques/>
