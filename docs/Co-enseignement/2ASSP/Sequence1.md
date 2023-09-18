@@ -4,6 +4,6 @@
 
 ## Entrer le code YHDGSS sur Wooclap.com
 
-[Wooclap](www.wooclap.com)
+[Wooclap](https://www.wooclap.com)
 
 
