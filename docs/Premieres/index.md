@@ -23,3 +23,6 @@
 ## Evaluation d'entraînement
 
 [Evaluation-Entraînement](./1_Seq1_EvaluationFormative.pdf){:target="_blank"}
+
+[Geogebra](./geogebra-export.html){:target="_blank"}
+
