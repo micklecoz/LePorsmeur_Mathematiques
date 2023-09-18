@@ -26,3 +26,8 @@
 
 [Geogebra](./geogebra-export.html){:target="_blank"}
 
+## AP 1
+
+
+
+[AP_1](./1_Seq1_Act0.pdf){:target="_blank"}
