@@ -6,7 +6,7 @@
 
 ### Echelle de pH
 
-![[Doc.png]]
+![[Doc.png]]{.center width=50%}
 
 <iframe src="https://learningapps.org/watch?v=pkr839nza23" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
