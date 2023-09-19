@@ -14,7 +14,7 @@
 
 ### Cours
 
-[Cours_1](./2_Seq1_Co.pdf){:target="_blank"}
+[Cours_1](../2_Seq1_Co.pdf){:target="_blank"}
 
 ### Entrer le code YHDGSS sur Wooclap.com
 
