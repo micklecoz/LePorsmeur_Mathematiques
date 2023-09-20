@@ -6,3 +6,6 @@
 
 [Geogebra](./geogebra-export2.html){:target="_blank"}
 
+## TP 2
+
+[Sequence-1_TP2](./2_Physique-Chimie_Seq1_TP2.pdf){:target="_blank"}
