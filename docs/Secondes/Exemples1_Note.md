@@ -20,3 +20,7 @@
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DCanko5Xhys?si=NkmEyyYd0jY-B2HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Activité 2
+
+[Activité-2](./2_Seq1_Act2.pdf){:target="_blank"}
