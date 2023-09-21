@@ -13,10 +13,10 @@
 
 [Activité-1](./2_Seq1_Act1.pdf){:target="_blank"}
 
-![[IM_Test_1.png]]
-![[IM_Test_2.png]]
-![[IM_Test_3.png]]
-![[IM_Test_4.png]]
+![[IM_Test_1.png]]{.center width=50%}
+![[IM_Test_2.png]]{.center width=50%}
+![[IM_Test_3.png]]{.center width=50%}
+![[IM_Test_4.png]]{.center width=50%}
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DCanko5Xhys?si=NkmEyyYd0jY-B2HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
