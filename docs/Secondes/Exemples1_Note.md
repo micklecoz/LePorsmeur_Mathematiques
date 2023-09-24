@@ -22,7 +22,7 @@
 [Activité-1](./2_Seq1_Act1.pdf){:target="_blank"}
 
 ??? example "Correction"
-    ![[Excel-1.png]]
+    ![[Excel-1.png]]{.center width=50%}
     
 ## Activité 2
 
