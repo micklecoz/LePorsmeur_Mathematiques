@@ -30,4 +30,4 @@
 
 ## Actvité 2
 
-[Sequence-1_Activite-2](https://learningapps.com){:target="_blank"}
+[Sequence-1_Activite-2](https://learningapps.org/){:target="_blank"}
