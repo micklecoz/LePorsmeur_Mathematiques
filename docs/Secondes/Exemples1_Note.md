@@ -31,4 +31,4 @@
 [Activité-2](./2_Seq1_Act2.pdf){:target="_blank"}
 
 ??? example "Correction"
-    ![[IMG_0573.png]]{.center width=50%}
+    ![[IMG_0573.jpeg]]{.center width=50%}
