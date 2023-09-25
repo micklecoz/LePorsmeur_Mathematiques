@@ -26,13 +26,6 @@
 
 [Geogebra](./geogebra-export.html){:target="_blank"}
 
-## AP 1
-
-
-
-[AP_1](./1_Seq1_AP1.pdf){:target="_blank"}
-
-
 
 ## Activite 4
 
@@ -41,3 +34,6 @@
 !!! example "Tutoriel_Sequence-1 / Stats à 2 variables"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/IunVQC4g3sU?si=JvLXbd2t2ksz68cJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## AP 1
+
+[AP_1](./1_Seq1_AP1.pdf){:target="_blank"}
