@@ -26,4 +26,6 @@
     
 ## Activité 2
 
+![[Graphques.jpeg]]{.center width=50%}
+
 [Activité-2](./2_Seq1_Act2.pdf){:target="_blank"}
