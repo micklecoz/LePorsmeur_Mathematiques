@@ -10,6 +10,9 @@
 
 [Sequence-1_TP2](./2_Physique-Chimie_Seq1_TP2.pdf){:target="_blank"}
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7fpzxe0Pimo?si=q5uzct3p7ewRph2L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ## TP 3
 
 [Sequence-1_TP3](./2_Physique-Chimie_Seq1__TP3.pdf){:target="_blank"}
