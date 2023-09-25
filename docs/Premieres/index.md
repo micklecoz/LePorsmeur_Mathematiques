@@ -38,6 +38,6 @@
 
 [Activité-4](./1_Seq1_Act4.pdf){:target="_blank"}
 
-!!! example "Correction"
+!!! example "Tutoriel_Sequence-1 / Stats à 2 variables"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/IunVQC4g3sU?si=JvLXbd2t2ksz68cJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
