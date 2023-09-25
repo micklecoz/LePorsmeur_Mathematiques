@@ -32,3 +32,4 @@
 
 ??? example "Correction"
     ![[Graph-Excel.png]]{.center width=50%}
+    ![[Graph-Excel-2.png]]{.center width=50%}
