@@ -33,4 +33,4 @@
 
 ## Activité 2
 
-[Sequence-1_Activite-2](https://learningapps.org/){:target="_blank"}
+<iframe src="https://learningapps.org/watch?v=p8tcq9zh223" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
