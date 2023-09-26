@@ -7,7 +7,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q_3eJ2FxvZc?si=yxMsNmG_EoUAjhk5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-## Activite 1
+## Activité 1
 
 
 ![[IM_Test_1.png]]{.center width=50%}
