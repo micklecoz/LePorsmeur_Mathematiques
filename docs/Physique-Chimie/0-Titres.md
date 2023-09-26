@@ -31,6 +31,6 @@
 
 [Sequence-1_Cours-2](./2_Physique-Chimie_Seq1_Co2.pdf){:target="_blank"}
 
-## Actvité 2
+## Activité 2
 
 [Sequence-1_Activite-2](https://learningapps.org/){:target="_blank"}
