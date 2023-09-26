@@ -49,7 +49,7 @@ theme:
           name: Basculer en mode sombre # message
       - scheme: slate # nom du thème sombre
         # primary: purple # couleur primaire des titres, des liens, ..., à prendre dans la liste ou à personaliser dans extra.css
-        accent: cyan
+        accent: lime
         toggle:
           icon: material/weather-night
           name: Basculer en mode clair
