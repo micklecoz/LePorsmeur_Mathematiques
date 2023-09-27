@@ -15,7 +15,7 @@
 
 ## TP 3
 
-[Sequence-1_TP3](./2_Physique-Chimie_Seq1__TP3.pdf){:target="_blank"}
+[Sequence-1_TP3](./2_Physique-Chimie_Seq__TP3.pdf){:target="_blank"}
 
 ## Cours 1
 
