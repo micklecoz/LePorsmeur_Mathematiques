@@ -33,7 +33,7 @@ theme:
     language: fr # français
     # logo: images/gem.svg # image qui apparait dans l'en tête à gauche du titre de la page
     # et qui est support du lien qui renvoie à la racine du site depuis toutes les pages
-    favicon: images/obsidian-logo.png # LogoIO-Obsidian.png
+    favicon: images/4BD651FC-58F0-498A-8E2F-7AAC766CA84A.svg # LogoIO-Obsidian.png
     icon:
       logo: fontawesome/solid/gem # icone qui apparait dans l'en tête à gauche du titre de la page
       # et qui est support du lien qui renvoie à la racine du site depuis toutes les pages
