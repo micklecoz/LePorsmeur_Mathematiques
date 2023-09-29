@@ -1,6 +1,6 @@
 # Fichier de configuration du site à personnaliser
 ### Configuration minimale
-site_name: Mathematiques en lycée professionnel # Nom du site <70 caractères, apparait dans l'onglet du navigateur
+site_name: Mathematiques & Physique-Chimie en lycée professionnel # Nom du site <70 caractères, apparait dans l'onglet du navigateur
 site_url: https://micklecoz.github.io/LePorsmeur_Mathematiques/ # Adresse web principale de publication du site, à modifier au format https://votre-pseudo-github.github.io/nom-depot/
 
 ### Configuration de métadonnées
