@@ -41,3 +41,5 @@
 
 # Sequence-2 _ Probabilités
 
+![[Seq2_AP1.png]]
+
