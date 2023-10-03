@@ -34,3 +34,5 @@
 ## Activité 2
 
 <iframe src="https://learningapps.org/watch?v=p8tcq9zh223" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+https://create.kahoot.it/share/le-son/5dfff0b6-a9a1-4293-8c56-ee6d1b0bd0da
