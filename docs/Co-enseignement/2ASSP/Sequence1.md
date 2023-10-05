@@ -19,3 +19,7 @@
 ### Entrer le code YHDGSS sur Wooclap.com
 
 [Wooclap](https://www.wooclap.com)
+
+## La dilution
+
+<iframe src="https://learningapps.org/watch?app=4471978" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
