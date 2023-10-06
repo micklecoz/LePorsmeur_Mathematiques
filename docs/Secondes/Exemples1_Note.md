@@ -42,4 +42,4 @@
 
 ??? example "Correction"
     ![Capture d’écran 2023-10-05 à 19.04.29.png]{.center width=50%}
-
+    ![Capture d’écran 2023-10-05 à 19.04.40.png]{.center width=50%}
