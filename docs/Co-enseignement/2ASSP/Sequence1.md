@@ -8,9 +8,9 @@
 
 ![[Doc.png]]{.center width=25%}
 
-<iframe src="https://learningapps.org/watch?v=pkr839nza23" style="border:0px;width:50%;height:250px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="https://learningapps.org/watch?v=pkr839nza23" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-<iframe src="https://learningapps.org/watch?v=p6n9ys5b523" style="border:0px;width:50%;height:250px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="https://learningapps.org/watch?v=p6n9ys5b523" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ### Cours
 
