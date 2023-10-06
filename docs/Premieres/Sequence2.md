@@ -8,4 +8,5 @@
 
 [Activité-1](./1_Seq2_Act1.pdf){:target="_blank"}
 
-![[Seq2_AP1.png]]
+??? example "Correction"
+    ![[Seq2_AP1.png]]
