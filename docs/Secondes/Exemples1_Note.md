@@ -41,8 +41,8 @@
 [Activité-3](./2_Seq1_Act3.pdf){:target="_blank"}
 
 ??? example "Correction"
- /   ![[1.png]]{.center width=50%}
-  /  ![[2.png]]{.center width=50%}
+    ![[1.png]]{.center width=50%}
+    ![[2.png]]{.center width=50%}
 
 
 [tableau_blanc](https://www.tldraw.com/r/NG24nx7lw1MKEX6jrshiH?viewport=0%2C0%2C1080%2C707&page=page%3AssCOvI713G3nSHx-kh484){:target="_blank"}
