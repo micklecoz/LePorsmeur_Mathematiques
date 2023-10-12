@@ -26,8 +26,8 @@
 
 ![[Doc2.png]]{.center width=25%}
 
-<iframe src="https://phet.colorado.edu/sims/html/ph-scale-basics/latest/ph-scale-basics_fr.html"
+<center><iframe src="https://phet.colorado.edu/sims/html/ph-scale-basics/latest/ph-scale-basics_fr.html"
         width="800"
         height="600"
         allowfullscreen>
-</iframe>
+</iframe></center>
