@@ -7,7 +7,10 @@
   --md-primary-fg-color--dark:  #7d5bed70;
 }
 
-
+.center {
+    display: block;
+    margin: 0 auto;
+}
 
 /*Ajout pour admonition spéciale adn */
 :root {
