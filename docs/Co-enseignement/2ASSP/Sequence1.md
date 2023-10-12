@@ -24,7 +24,7 @@
 
 <iframe src="https://learningapps.org/watch?app=4471978" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-![[Doc2.png]]{.center width=25%}
+![[Doc2.png]]{.center width=50%}
 
 <center><iframe src="https://phet.colorado.edu/sims/html/ph-scale-basics/latest/ph-scale-basics_fr.html"
         width="800"
