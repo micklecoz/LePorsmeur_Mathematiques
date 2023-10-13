@@ -22,8 +22,11 @@
 
 ## La dilution
 
+### Les conversions
+
 <iframe src="https://learningapps.org/watch?app=4471978" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
+### Exercice 1
 ![[Doc2.png]]{.center width=50%}
 
 <center><iframe src="https://phet.colorado.edu/sims/html/ph-scale-basics/latest/ph-scale-basics_fr.html"
@@ -34,6 +37,9 @@
 
  
 ![[Doc3a.png]]{.center}  
+
+### Exercice 2
+
 ![[Doc3b.png]]{.center}
 ![[Doc4.png]]{.center}  
 ![[Doc5a.png]]{.center width=50%} 
