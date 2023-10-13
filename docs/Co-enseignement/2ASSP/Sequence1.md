@@ -31,3 +31,12 @@
         height="600"
         allowfullscreen>
 </iframe></center>
+
+ 
+![[Doc3a.png]]{.center width=50%}
+![[Doc3b.png]]{.center width=50%}
+![[Doc4.png]]{.center width=50%}  
+![[Doc5a.png]]{.center width=50%} 
+![[Doc5b.png]]{.center width=50%}  
+![[Doc5c.png]]{.center width=50%} 
+![[Doc6.png]]{.center width=50%}
