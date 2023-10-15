@@ -16,5 +16,7 @@
 
 [Activite_2](./1_Seq2_Act2.pdf){:target="_blank"}
 
+[Activite_3](./1_Seq2_Act3.pdf){:target="_blank"}
+
 ??? example "AP 1"
     ![[Seq2_AP1.png]]
