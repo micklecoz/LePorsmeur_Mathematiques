@@ -6,6 +6,10 @@
 
 ![[Doc7.png]]{.center width=50%}
 
+![[Doc8.png]]{.center width=50%}
+
+![[Doc9.png]]{.center width=50%}
+
 <center><iframe src="https://phet.colorado.edu/sims/html/ph-scale/latest/ph-scale_en.html"
         width="800"
         height="600"
@@ -13,4 +17,4 @@
 </iframe></center>
 
  
-![[Doc8.png]]{.center}  
+![[Doc10.png]]{.center}  
