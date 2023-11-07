@@ -24,4 +24,6 @@
 
 ## La dissolution
 
+<iframe src="https://learningapps.org/watch?app=2593042" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
 [Activite 1](./2_Seq2_Act1.pdf){:target="_blank"}
