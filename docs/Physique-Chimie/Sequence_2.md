@@ -4,6 +4,8 @@
 
 [Sequence-2_TP1](./2_Physique-Chimie_Seq2_TP1.pdf){:target="_blank"}
 
+## La dilution
+
 ![[Doc7.png]]{.center width=50%}
 
 ![[Doc9.png]]{.center width=50%}
