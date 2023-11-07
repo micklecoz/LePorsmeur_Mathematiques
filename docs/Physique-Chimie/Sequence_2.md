@@ -22,4 +22,4 @@
 
 ## La dissolution
 
-[Activite 1](./2_Physique-Chimie_Seq2_Act1.pdf){:target="_blank"}
+[Activite 1](./2_Seq2_Act1.pdf){:target="_blank"}
