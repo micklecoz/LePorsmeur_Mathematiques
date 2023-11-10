@@ -46,5 +46,3 @@
 ![[Doc5b.png]]{.center width=50%}  
 ![[Doc5c.png]]{.center width=50%} 
 ![[Doc6.png]]{.center}
-
-[Geogebra](./geogebra-export.html){:target="_blank"}
