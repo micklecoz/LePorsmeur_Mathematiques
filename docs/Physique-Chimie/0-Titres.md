@@ -25,7 +25,7 @@
 
 ## Activité 1
 
-[Sequence-1_Actvité-1](./2_Physique-Chimie_Seq1_Act1.pdf){:target="_blank"}
+[Sequence-1_Activité-1](./2_Physique-Chimie_Seq1_Act1.pdf){:target="_blank"}
 
 ## Cours 2
 
