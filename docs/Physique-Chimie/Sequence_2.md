@@ -30,3 +30,7 @@
 
 ??? example "Correction"
     ![[CorrLearningApps.png]]{.center width=50%}
+
+[Sequence-2_Cours](./2_Physique-Chimie_Seq2_Co3_Ex.pdf){:target="_blank"}
+
+/// [Sequence-2_Cours](./2_Physique-Chimie_Seq2_Co3.pdf){:target="_blank"}
