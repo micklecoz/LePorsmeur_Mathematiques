@@ -33,4 +33,6 @@
 
 [Sequence-2_Cours](./2_Physique-Chimie_Seq2_Co3_Ex.pdf){:target="_blank"}
 
-/// [Sequence-2_Cours](./2_Physique-Chimie_Seq2_Co3.pdf){:target="_blank"}
+
+??? example "Correction de l'exercice"
+    [Sequence-2_Cours](./2_Physique-Chimie_Seq2_Co3.pdf){:target="_blank"}
