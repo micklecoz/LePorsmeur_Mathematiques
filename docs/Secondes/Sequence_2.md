@@ -16,7 +16,7 @@
 <iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FPJCEO/questions/609790cf45452c11566787b4" width="100%"></iframe>
 
 ??? example "AP_1"
-    ![[Seq2_AP1]]
+    ![[Seq2_AP1.jpg]] 
 
 ??? example "AP_2"
-    ![[Seq2_AP2]]
+    ![[Seq2_AP2.jpg]]
