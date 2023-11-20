@@ -11,9 +11,16 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N7vj6gybRmg?si=wTyS4XUUPSzNh8Yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-[Cours](./2_Seq2_Co.pdf){:target="_blank"}
 
 <iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FPJCEO/questions/609790cf45452c11566787b4" width="100%"></iframe>
+
+[Cours](./2_Seq2_Co.pdf){:target="_blank"}
+
+
+## Exercice
+
+[Exercice](./2_Seq2_Ex.pdf){:target="_blank"}
+
 
 ??? example "AP_1"
     ![[Seq2_AP1.jpg]] 
