@@ -44,3 +44,9 @@
         height="600"
         allowfullscreen>
 </iframe>
+
+<iframe src="https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_fr.html"
+        width="800"
+        height="600"
+        allowfullscreen>
+</iframe>
