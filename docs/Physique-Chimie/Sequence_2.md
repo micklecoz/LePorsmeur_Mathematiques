@@ -37,6 +37,12 @@
 ??? example "Correction de l'exercice"
     [Sequence-2_Cours](./2_Physique-Chimie_Seq2_Co3.pdf){:target="_blank"}
 
+    
+## TP 3
+
+[Sequence-2_TP3](./2_Physique-Chimie_Seq2_TP3_ConcentrationMassique.pdf){:target="_blank"}
+
+
 ## Les molecules
 
 <iframe src="https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_fr.html"
