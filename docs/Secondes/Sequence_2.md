@@ -21,9 +21,14 @@
 
 [Exercice](./2_Seq2_Ex.pdf){:target="_blank"}
 
+[Exercice_2](./2_Seq2_ExB.pdf){:target="_blank"}
 
 ??? example "AP_1"
     ![[Seq2_AP1.jpg]] 
 
 ??? example "AP_2"
     ![[Seq2_AP2.jpg]]
+
+    
+
+
