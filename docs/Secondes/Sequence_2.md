@@ -17,17 +17,11 @@
 [Cours](./2_Seq2_Co.pdf){:target="_blank"}
 
 
-## Exercice
+## Exercices
 
-[Exercice](./2_Seq2_Ex.pdf){:target="_blank"}
+[Exercice_1](./2_Seq2_Ex.pdf){:target="_blank"}
 
 [Exercice_2](./2_Seq2_ExB.pdf){:target="_blank"}
-
-??? example "AP_1"
-    ![[Seq2_AP1.jpg]] 
-
-??? example "AP_2"
-    ![[Seq2_AP2.jpg]]
 
     
 !!! example "Exercice_3"
@@ -43,3 +37,9 @@
 <iframe src="https://app.Lumi.education/api/v1/run/E5vkHX/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
 
 <iframe src="https://app.Lumi.education/api/v1/run/UMmdbO/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
+
+??? example "AP_1"
+    ![[Seq2_AP1.jpg]] 
+
+??? example "AP_2"
+    ![[Seq2_AP2.jpg]]
