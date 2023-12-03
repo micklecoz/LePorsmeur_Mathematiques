@@ -12,13 +12,13 @@
 
 [Cours Sequence-2](./1_Seq2_Cours.pdf){:target="_blank"}
 
-## Activité 2
+## Exercices
 
-[Activite_2](./1_Seq2_Act2.pdf){:target="_blank"}
+[Exercice_1](./1_Seq2_Act2.pdf){:target="_blank"}
 
-[Activite_3](./1_Seq2_Act3.pdf){:target="_blank"}
+[Exercice_2](./1_Seq2_Act3.pdf){:target="_blank"}
 
-!!! example "Activité_4"
+!!! example "Exercice_3"
     ![[Exercice_3.jpg]] 
 
 <iframe src="https://app.Lumi.education/api/v1/run/_YSOuU/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
