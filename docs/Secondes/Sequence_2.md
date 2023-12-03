@@ -53,5 +53,5 @@
 
 !!! example "Evaluation d'entraînement"
     ![[O.png]] 
-    ![[1.png]] 
+    ![[1_1.png]] 
     ![[Arbre.png]] 
