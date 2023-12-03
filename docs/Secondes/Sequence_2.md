@@ -48,3 +48,10 @@
 
 ??? example "AP_3"
     ![[AP_3.jpg]]
+
+## Evaluation d'entraînement
+
+!!! example "Evaluation d'entraînement"
+    ![[O.png]] 
+    ![[1.png]] 
+    ![[Arbre.png]] 
