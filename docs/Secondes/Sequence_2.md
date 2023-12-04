@@ -67,8 +67,8 @@
 
 
 !!! example "Evaluation d'entraînement"
-    ![[Consigne.jpeg]] 
-    ![[Tableau.jpeg]] 
+    ![[Consigne.jpg]] 
+    ![[Tableau.jpg]] 
 
 #### 5. completer les cases vides du tableau
 
