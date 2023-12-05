@@ -7,12 +7,15 @@
 
 ## Séance 2
 
-![[AP1.png]]
+??? example
+
+    ![[AP1.png]]
 
 
 ## Séance 3
 
-![[5891692D-933E-406F-8327-325C8AF45E88.jpeg]]
+??? example
+    ![[5891692D-933E-406F-8327-325C8AF45E88.jpeg]]
 
 ## Séance 4
 
