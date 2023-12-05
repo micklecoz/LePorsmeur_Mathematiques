@@ -7,14 +7,13 @@
 
 ## Séance 2
 
-??? example
-
+??? example "Seance 2"
     ![[AP1.png]]
 
 
 ## Séance 3
 
-??? example
+??? example "Seance 3"
     ![[5891692D-933E-406F-8327-325C8AF45E88.jpeg]]
 
 ## Séance 4
