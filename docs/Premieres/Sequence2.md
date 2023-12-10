@@ -41,4 +41,8 @@
 ??? example "AP 1"
     ![[Seq2_AP1.png]]
 
+## Evaluation d'entraînement
+
+[Evaluation_Entraînement](./1_Seq2_EvaluationFormative.pdf){:target="_blank"}
+
 
