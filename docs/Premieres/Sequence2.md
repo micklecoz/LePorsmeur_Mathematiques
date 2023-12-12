@@ -45,4 +45,9 @@
 
 [Evaluation_Entraînement](./1_Seq2_EvaluationFormative.pdf){:target="_blank"}
 
+## Remediation
+
+![[Remediation_1.jpg]]
+![[Remediation_2.jpg]]
+![[Remediation_3.png]]
 
