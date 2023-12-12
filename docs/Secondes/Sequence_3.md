@@ -1,4 +1,4 @@
-# Problèmes du 1er degré
+# Séquence_3 / Problèmes du 1er degré
 
 ## Notre Dame du Cube
 
