@@ -6,6 +6,9 @@
 
 <div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><video class="loader-genially" autoplay="autoplay" loop="loop" playsinline="playsInline" muted="muted" style="position: absolute;top: 45%;left: 50%;transform: translate(-50%, -50%);width: 80px;height: 80px;margin-bottom: 10%"><source src="https://static.genial.ly/resources/loader-default.mp4" type="video/mp4" />Your browser does not support the video tag.</video><div id="651ee2d76b394d0011df88ef" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genial.ly/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
 
+??? example inline end "Correction"
+    ![[1_Seq2_Act_Corr.jpg]]{width=115%}
+
 [Activité-1](./1_Seq2_Act1.pdf){:target="_blank"}
 
 ## Cours
@@ -18,6 +21,9 @@
     ![[1_Seq2_Exercice_1_Corr.jpg]]{width=115%}
 
 [Exercice_1](./1_Seq2_Act2.pdf){:target="_blank"}
+
+??? example inline end "Correction"
+    ![[1_Seq2_Exercice_2_Corr.jpg]]{width=115%}
 
 [Exercice_2](./1_Seq2_Act3.pdf){:target="_blank"}
 
