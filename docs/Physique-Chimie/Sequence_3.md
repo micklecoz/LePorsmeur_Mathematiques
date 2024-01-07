@@ -16,3 +16,6 @@
         allowfullscreen>
 </iframe>
 
+## TP 3
+
+[Sequence-3_TP3](./2_Seq3_Physique-Chimie_TP3.pdf){:target="_blank"}
