@@ -14,3 +14,8 @@
 [Activité-1](./1_Seq3_Act1.pdf){:target="_blank"}
 
 <iframe src="https://www.geogebra.org/classic/pVWT56Wb?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+## AP
+
+??? example "AP 1"
+    ![[Seq3_AP1.jpg]]
