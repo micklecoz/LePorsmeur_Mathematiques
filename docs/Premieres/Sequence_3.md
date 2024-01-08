@@ -18,4 +18,4 @@
 ## AP
 
 ??? example "AP 1"
-    ![[Seq3_AP1.jpg]]
+    ![[1_Seq3_AP1.jpg]]
