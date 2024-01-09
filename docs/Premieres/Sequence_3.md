@@ -15,6 +15,10 @@
 
 <iframe src="https://www.geogebra.org/classic/pVWT56Wb?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
+### Angry Birds : Activité Géogébra N°2
+
+<iframe src="https://www.geogebra.org/classic/HpdYBtE9?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
 ## AP
 
 ??? example "AP 1"
