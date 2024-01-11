@@ -12,6 +12,6 @@
 ??? example "AP_1"
     ![[2_Seq3_AP1.jpg]] 
 
-??? example "AP_1"
+??? example "AP_2"
     ![[2_Seq3_AP2.jpg]]   
 
