@@ -17,6 +17,8 @@
 
 ### Angry Birds : Activité Géogébra N°2
 
+[Activité-2](./1_Seq3_Act2.pdf){:target="_blank"}
+
 <iframe src="https://www.geogebra.org/classic/HpdYBtE9?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ## AP
