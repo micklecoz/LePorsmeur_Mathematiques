@@ -43,7 +43,7 @@
 
 ### Fonction mystère
 
-[[./fonction_mystere.jpg]]{width=75%}
+![[./fonction_mystere.jpg]]{width=75%}
 
 <iframe src="https://www.geogebra.org/calculator/rwqf8ru5?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
