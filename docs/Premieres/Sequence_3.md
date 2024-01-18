@@ -26,6 +26,9 @@
 
 <iframe src="https://www.geogebra.org/classic/pVWT56Wb?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
+??? example inline end "Correction"
+    <iframe src="https://www.geogebra.org/calculator/h2r7bwak?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
 ### Angry Birds : Activité Géogébra N°2
 
 [Activité-2](./1_Seq3_Act2.pdf){:target="_blank"}
