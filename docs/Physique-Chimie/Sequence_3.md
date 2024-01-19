@@ -36,6 +36,6 @@
 
 ## TP 4
 
-[Sequence-3_TP4](./2_Seq3_TP4.pdf){:target="_blank"}
+[TP4](./2_Seq3_TP4.pdf){:target="_blank"}
 
 [Animation](https://web-labosims.org/animations/couleur_objet2/couleur_objet.html){:target="_blank"}
