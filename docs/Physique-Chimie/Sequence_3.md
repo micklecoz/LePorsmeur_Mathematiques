@@ -1,5 +1,7 @@
 # Sequence-3_Optique
 
+# La lumiere
+
 ## TP 1
 
 [Sequence-3_TP1](./2_Physique-Chimie_Seq3_TP1.pdf){:target="_blank"}
@@ -20,7 +22,7 @@
 
 [Sequence-3_TP3](./2_Seq3_Physique-Chimie_TP3.pdf){:target="_blank"}
 
-## Les couleurs
+# Les couleurs
 
 [Sequence-3_LesCouleurs](./2_Physique-Chimie_Seq3_LesCouleurs.pdf){:target="_blank"}
 
@@ -31,3 +33,9 @@
         height="600"
         allowfullscreen>
 </iframe>
+
+## TP 4
+
+[Sequence-3_TP4](./2_Seq3_TP4.pdf){:target="_blank"}
+
+[Animation](https://web-labosims.org/animations/couleur_objet2/couleur_objet.html){:target="_blank"}
