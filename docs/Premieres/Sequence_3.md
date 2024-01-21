@@ -43,7 +43,7 @@
 
 ## résoudre f(x) = ax^2 + bx + c = 0
 
-![[./1_Seq3_Cours.jpg]]{width=25%}
+![[./1_Seq3_Cours.png]]{width=25%}
 
 
 
