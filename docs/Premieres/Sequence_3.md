@@ -45,6 +45,8 @@
 
 ![[./1_Seq3_Cours.png]]{width=25%}
 
+<iframe src="https://www.geogebra.org/calculator/g8ytduey?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
 
 
 ### Fonction mystère
