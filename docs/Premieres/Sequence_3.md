@@ -47,7 +47,7 @@
 
 <iframe src="https://www.geogebra.org/calculator/g8ytduey?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
-
+<iframe src="https://learningapps.org/watch?v=pfgfprzqt24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ### Fonction mystère
 
