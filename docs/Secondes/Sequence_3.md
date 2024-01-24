@@ -9,11 +9,20 @@
 
 ## AP
 
+??? example inline end "Correction AP_1"
+    ![[2_Seq3_AP1_Corr.jpg]]
+
 ??? example "AP_1"
     ![[2_Seq3_AP1.jpg]] 
 
+??? example inline end "Correction AP_2"
+    ![[2_Seq3_AP2_Corr.jpg]]
+    
 ??? example "AP_2"
     ![[2_Seq3_AP2.png]]   
+
+??? example inline end "Correction AP_3"
+    ![[2_Seq3_AP3_Corr.jpg]]
 
 ??? example "AP_3"
     ![[2_Seq3_AP3.jpg]]   
