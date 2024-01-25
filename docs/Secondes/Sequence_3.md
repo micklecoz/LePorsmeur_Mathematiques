@@ -83,5 +83,5 @@
 !!! example "AP_3"
     ![[2_Seq3_AP3.jpg]]   
 
-\\ ??? example "Correction AP_3"
-\\    ![[2_Seq3_AP3_Corr.jpg]]
+<!---  ??? example "Correction AP_3"
+\\    ![[2_Seq3_AP3_Corr.jpg]] -->
