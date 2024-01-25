@@ -2,8 +2,7 @@
 
 ## Cours
 
-[Cours Sequence-3](./Seq3_Co.pdf){:target="_blank"}
-
+[Cours Sequence-3](./2_Seq3_Co.pdf){:target="_blank"}
 
 ## Problèmes
 
