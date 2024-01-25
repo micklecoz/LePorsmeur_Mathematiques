@@ -9,7 +9,7 @@
 ??? example inline end "Correction Ex_1"
     ![[2_Seq3_Ex1_Corr.jpg]]
 
-[[./2_Seq3_Ex1.jpg]]
+![[./2_Seq3_Ex1.jpg]]
 
 
 ## AP
