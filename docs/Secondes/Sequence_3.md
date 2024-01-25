@@ -16,7 +16,7 @@
     ![[./2_Seq3_Ex2.jpg]]
 
 \ ??? example inline end "Correction Ex_3"
-    ![[2_Seq3_Ex1_Corr.jpg]]
+    ![[2_Seq3_Ex3_Corr.jpg]]
 
 !!! example
     ![[./2_Seq3_Ex3.jpg]]
@@ -38,6 +38,27 @@
 
 !!! example
     ![[./2_Seq3_Ex6.jpg]]
+
+
+\ ??? example inline end "Correction Ex_7"
+    ![[2_Seq3_Ex7_Corr.jpg]]
+
+!!! example
+    ![[./2_Seq3_Ex7.jpg]]
+
+
+\ ??? example inline end "Correction Ex_8"
+    ![[2_Seq3_Ex8_Corr.jpg]]
+
+!!! example
+    ![[./2_Seq3_Ex8.jpg]]
+
+
+\ ??? example inline end "Correction Ex_9"
+    ![[2_Seq3_Ex9_Corr.jpg]]
+
+!!! example
+    ![[./2_Seq3_Ex9.jpg]]
 
 ## AP
 
