@@ -1,5 +1,9 @@
 # Séquence-3_Problèmes du 1er degré
 
+## Cours
+
+[Cours Sequence-3](./Seq3_Co.pdf){:target="_blank"}
+
 
 ## Problèmes
 
