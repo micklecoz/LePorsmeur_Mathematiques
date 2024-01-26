@@ -18,14 +18,14 @@
 !!! example
     ![[./2_Seq3_Ex2.jpg]]
 
-<!-- ??? example inline end "Correction Ex_3" -->
-<!--   ![[2_Seq3_Ex3_Corr.jpg]] -->
+??? example inline end "Correction Ex_3"
+    ![[2_Seq3_Ex3_Corr.jpg]]
 
 !!! example
     ![[./2_Seq3_Ex3.jpg]]
 
 ??? example inline end "Correction Ex_4"
-![[2_Seq3_Ex4_Corr.jpg]]
+    ![[2_Seq3_Ex4_Corr.jpg]]
 
 !!! example
     ![[./2_Seq3_Ex4.jpg]]
