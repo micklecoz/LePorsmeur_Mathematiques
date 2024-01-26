@@ -9,6 +9,9 @@
 ??? example inline end "Correction Ex_1"
     ![[2_Seq3_Ex1_Corr.jpg]]
 
+??? example inline end "Aide_1"
+    ![[2_Seq3_Aide2.jpg]]
+
 !!! example
     ![[./2_Seq3_Ex1.jpg]]
 
@@ -26,6 +29,9 @@
 
 ??? example inline end "Correction Ex_4"
     ![[2_Seq3_Ex4_Corr.jpg]]
+
+??? example inline end "Aide_2"
+    ![[2_Seq3_Aide1.jpg]]
 
 !!! example
     ![[./2_Seq3_Ex4.jpg]]
