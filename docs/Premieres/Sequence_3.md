@@ -69,6 +69,28 @@
 
 [Eval_Formative](./1_Seq3_Eval_Formative.pdf){:target="_blank"}
 
+![[./1_Seq3_1.jpg]]
+
+![[./1_Seq3_2.jpg]]
+
+![[./1_Seq3_3.jpg]]
+
+![[./1_Seq3_4.jpg]]
+
+![[./1_Seq3_5.jpg]]
+
+![[./1_Seq3_6.jpg]]
+
+![[./1_Seq3_7.jpg]]
+
+![[./1_Seq3_8.jpg]]
+
+![[./1_Seq3_9.jpg]]
+
+![[./1_Seq3_10.jpg]]
+
+![[./1_Seq3_Co.jpg]]
+
 ## AP
 
 ??? example "AP 1"
