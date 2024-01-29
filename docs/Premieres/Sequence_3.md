@@ -80,7 +80,7 @@
 
 ![[./Seq3_3.jpg]]
 
-
+<iframe title="Représentations graphiques fonctions de degré 2" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/aeda5c3c-0091-40b1-b8cc-f80d90d62f89" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 ![[./Seq3_4.jpg]]
 
