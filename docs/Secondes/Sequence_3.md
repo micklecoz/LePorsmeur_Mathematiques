@@ -6,7 +6,8 @@
 
 ## Problèmes
 
-
+??? example inline end "Aide_1"
+    ![[2_Seq3_Aide3.jpg]]
 
 ??? example inline end "Correction Ex_1"
     ![[2_Seq3_Ex1_Corr.jpg]]
