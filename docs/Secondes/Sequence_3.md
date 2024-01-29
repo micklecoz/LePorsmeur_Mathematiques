@@ -51,15 +51,15 @@
 !!! example "Problème 6"
     ![[./2_Seq3_Ex6.jpg]]
 
-??? example inline end "Aide_7"
-    ![[2_Seq3_Aide4.jpg]]
-
 
 ??? example inline end "Correction Ex_7"
     ![[2_Seq3_Ex7_Corr.jpg]]
 
 !!! example "Problème 7"
     ![[./2_Seq3_Ex7.jpg]]
+
+??? example inline end "Aide_8"
+    ![[2_Seq3_Aide4.jpg]]
 
 
 ??? example inline end "Correction Ex_8"
