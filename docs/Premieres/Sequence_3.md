@@ -1,5 +1,8 @@
 # Séquence-3_Fonctions du second degré
 
+!!! example "Point cours #1"
+    ![[1_Seq3_Co1.jpg]]
+
 ## classifier les fonctions
 
 <iframe src="https://learningapps.org/watch?v=procf652c24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
@@ -32,6 +35,9 @@
 
 
 ### Angry Birds : Activité Géogébra N°2
+
+!!! example "Point cours #2"
+    ![[1_Seq3_Co2.jpg]]
 
 [Activité-2](./1_Seq3_Act2.pdf){:target="_blank"}
 
@@ -128,7 +134,7 @@
 
 ![[./Seq3_91.jpg]]
 
-??? example "Point cours"
+??? example "Point cours #3"
     ![[./Seq3_Co.jpg]]
 
 <iframe src="https://app.Lumi.education/api/v1/run/6SsU83/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
