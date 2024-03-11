@@ -9,7 +9,7 @@
     ![[SuiteAr.png]]
 
 !!! example inline end "Exemple"
-    ![[SuiteGeo_Ex.png]]
+    ![[SuiteGeo_Ex_B.png]]
 
 !!! example "Suite géométrique"
     ![[SuiteGeo.png]]
