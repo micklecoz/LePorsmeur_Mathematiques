@@ -16,7 +16,7 @@
 
 <iframe src="https://learningapps.org/watch?v=pt0auw79t24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-??? example "Point Cours"
+??? example "Point Cours 1"
     ![[1_Seq4_Co1.png]]
 
 ## Exercices
@@ -28,6 +28,9 @@
 <iframe src="https://app.Lumi.education/api/v1/run/DoDd5n/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
 
 <iframe src="https://app.Lumi.education/api/v1/run/AHRqOb/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
+
+??? example "Point Cours 2"
+    ![[1_Seq4_Co2.png]]
 
 <iframe src="https://app.Lumi.education/api/v1/run/hzWzqP/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
 
