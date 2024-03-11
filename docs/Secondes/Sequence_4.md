@@ -24,8 +24,11 @@
 
 ### voici la boîte à moustaches représentant la série statistique des notes d une autre classe de Seconde
 
-![[BaM2ASSP]
+![[BaM2_ASSP]
 
-### Pour comparer les 2 classes, représenter sur votre czlculatrice Numwork, la boîte à moustaches de la première série de notes, en vous aidant du tutoriel vidéo ci-dessous
+### Pour comparer les 2 classes, représenter sur votre calculatrice Numwork, la boîte à moustaches de la première série de notes, en vous aidant du tutoriel vidéo ci-dessous
 
 <iframe title="trim.9113F42B-61B8-4758-BA54-E95D67D4FB62" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/c854c4a3-f20d-4053-8422-41d99beea468" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+
+??? example "Correction boîte à moustaches"
+    ![[BaM_2AEPA]]
