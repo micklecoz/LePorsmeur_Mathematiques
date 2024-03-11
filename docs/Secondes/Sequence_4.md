@@ -5,7 +5,7 @@
 ### voici les notes de Maths d une classe de Seconde
 
 !!! example "notes Seconde"
-    ![[2_Seq4_Ex1.jpg]]{width=25%}
+    ![[2_Seq4_Ex1.jpg]]{width=10%}
 
 <iframe src="https://app.Lumi.education/api/v1/run/yS-5HU/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
 
@@ -24,7 +24,7 @@
 
 ### voici la boîte à moustaches représentant la série statistique des notes d une autre classe de Seconde
 
-![[BaM2_ASSP]
+![[BaM_2ASSP]
 
 ### Pour comparer les 2 classes, représenter sur votre calculatrice Numwork, la boîte à moustaches de la première série de notes, en vous aidant du tutoriel vidéo ci-dessous
 
