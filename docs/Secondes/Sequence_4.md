@@ -21,4 +21,9 @@
 
 ### on appelle cette valeur le 3éme quartile : Q3
 
+### voici la boîte à moustaches représentant la série statistique des notes d une autre classe de Seconde
+
+![[BaM2ASSP]
+
+### Pour comparer les 2 classes, représenter sur votre czlculatrice Numwork, la boîte à moustaches de la première série de notes, en vous aidant du tutoriel vidéo ci-dessous
 
