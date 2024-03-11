@@ -17,7 +17,7 @@
 <iframe src="https://learningapps.org/watch?v=pt0auw79t24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ??? example "Point Cours"
-    ![[SuiteCo.png]]
+    ![[1_Seq4_Co1.png]]
 
 ## Exercices
 
