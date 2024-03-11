@@ -19,3 +19,7 @@
 ??? example "Point Cours"
     ![[SuiteCo.png]]
 
+## Exercices
+
+![[1_Seq5_Co.pdf]]
+
