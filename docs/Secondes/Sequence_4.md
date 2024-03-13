@@ -38,6 +38,6 @@
     ![[BaM_2ASSP.jpg]]{width=25%}
 
 
-[Cours](./2seq5co.pdf){target_blanck)
+[Cours](./2seq5co.pdf){:target="_blank"}
 
-[Activité_2](./2_Ch4_Act3.pdf){target_blanck)
+[Activité_2](./2_Ch4_Act3.pdf){:target="_blank"}
