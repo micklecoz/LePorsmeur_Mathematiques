@@ -36,3 +36,8 @@
 
 ??? example "Correction boîte à moustaches"
     ![[BaM_2ASSP.jpg]]{width=25%}
+
+
+[Cours](./2seq5co.pdf){target_blanck)
+
+[Activité_2](./2_Ch4_Act3.pdf){target_blanck)
