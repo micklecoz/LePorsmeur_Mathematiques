@@ -46,4 +46,4 @@
 #AP 1
 
 ! example "AP 1"
-    [[AP1.png]
+    [[AP1.jpg]
