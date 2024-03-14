@@ -47,3 +47,5 @@
 
 !!! example "AP 1"
     ![[AP1.jpg]]
+
+<iframe src="https://www.geogebra.org/calculator/jzxp5zre?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
