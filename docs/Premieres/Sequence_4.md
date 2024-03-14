@@ -45,5 +45,5 @@
 
 #AP 1
 
-! example "AP 1"
-    [[AP1.jpg]
+!!! example "AP 1"
+    ![[AP1.jpg]]
