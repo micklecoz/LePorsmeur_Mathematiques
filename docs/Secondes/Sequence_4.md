@@ -44,4 +44,4 @@
 # AP
 
 ??? example "AP 1"
-    ![[AP1.jpg]]{width=25%}
+    ![[AP1.png]]{width=25%}
