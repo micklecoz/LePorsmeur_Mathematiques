@@ -40,3 +40,8 @@
 [Cours](./2seq5co.pdf){:target="_blank"}
 
 [Activité_2](./2_Ch4_Act3.pdf){:target="_blank"}
+
+# AP
+
+??? example "AP 1"
+    ![[AP1.jpg]]{width=25%}
