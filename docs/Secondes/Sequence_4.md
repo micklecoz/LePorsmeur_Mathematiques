@@ -44,4 +44,4 @@
 # AP
 
 ??? example "AP 1"
-    ![[AP1.png]]{width=100%} 
+    ![[Seq4_AP1.png]]{width=100%} 
