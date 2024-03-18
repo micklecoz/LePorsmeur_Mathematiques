@@ -49,6 +49,9 @@
 
 [Activité_1](./1_Ch5_Act2.pdf){:target="_blank"}
 
+!!! example "Activité 2"
+    ![[1_Seq4_Act3.png]]
+
 
 #AP 1
 
