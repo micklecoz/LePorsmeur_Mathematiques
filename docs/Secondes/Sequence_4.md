@@ -51,6 +51,8 @@
 !!! example "Activité 4"
     ![[2seq5act4.pdf]]
 
+[Evaluation entrainement](./2_Ch4_EvalFormative.pdf){:target="_blank"}
+
 # AP
 
 ??? example "AP 1"
