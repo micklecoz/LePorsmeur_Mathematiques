@@ -70,6 +70,8 @@
 
 [Evaluation entrainement](./1_EvalFormative.pdf){:target="_blank"}
 
+<iframe src="https://www.geogebra.org/calculator/trvmgmsh?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
 [Tutoriel_Numworks](./1_Ch5_Act2.pdf){:target="_blank"}
 
 
