@@ -26,6 +26,8 @@
 ??? example "Cours"
     ![[2_Ch5_Co-1.pdf]]{width=100%}
 
+<iframe src="https://learningapps.org/watch?v=p0bm6asvt24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
 <iframe src="https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_fr.html"
         width="800"
         height="600"
