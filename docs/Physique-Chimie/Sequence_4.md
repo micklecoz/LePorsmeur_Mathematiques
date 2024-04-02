@@ -16,6 +16,9 @@
 
 [Capsule_Vidéo](http://stream.edupole.net/vod/NATHAN/eduplateforme/9782091671277/16_Video_Intro.mp4){:target="_blank"}
 
+!!! example "Activité"
+    ![[2_Ch5_Act2.pdf]]{width=100%}
+
 ## TP 1
 
 [TP_1](./2_Seq5_TP2.pdf){:target="_blank"}
