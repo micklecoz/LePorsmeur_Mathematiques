@@ -1,5 +1,7 @@
 # Sequence-4_Thermique
 
+# Chaleur
+
 <iframe src="https://learningapps.org/watch?v=pm53pr50524" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ![[Chaleur.png]]
@@ -25,6 +27,8 @@
 
 ??? example "Cours"
     ![[2_Ch5_Co-1.pdf]]{width=100%}
+
+# Changements d états
 
 <iframe src="https://learningapps.org/watch?v=p0bm6asvt24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
