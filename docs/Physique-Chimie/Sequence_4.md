@@ -17,3 +17,20 @@
 ## TP 1
 
 [TP_1](./2_Seq5_TP2.pdf){:target="_blank"}
+
+# Température
+
+!!! example "Activité"
+    ![[2_Ch5_Act1-1.pdf]]{width=100%}
+
+??? example "Cours"
+    ![[2_Ch5_Co-1.pdf]]{width=100%}
+
+<iframe src="https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_fr.html"
+        width="800"
+        height="600"
+        allowfullscreen>
+</iframe>
+
+
+
