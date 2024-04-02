@@ -25,6 +25,9 @@
 !!! example "Activité"
     ![[2_Ch5_Act1-1.pdf]]{width=100%}
 
+!!! example "Activité"
+    ![[Activite_Suite.png]]{width=100%}
+
 ??? example "Cours"
     ![[2_Ch5_Co-1.pdf]]{width=100%}
 
