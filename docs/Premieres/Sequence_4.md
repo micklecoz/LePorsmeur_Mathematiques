@@ -72,6 +72,19 @@
 
 <iframe src="https://www.geogebra.org/calculator/trvmgmsh?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
+## Remédiation
+
+![[./remediation1.png]]
+
+![[./remediation2.png]]
+
+![[./remediation3.png]]
+
+![[./remediation4.png]]
+
+![[./remediation5.png]]
+
+
 [Tutoriel_Numworks](./1_Ch5_Act2.pdf){:target="_blank"}
 
 
