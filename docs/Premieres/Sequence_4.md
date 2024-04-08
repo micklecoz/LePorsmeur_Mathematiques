@@ -74,15 +74,15 @@
 
 ## Remédiation
 
-![[./Remediation1.png]]
+![[./Remediation1.png]]{width=50%}
 
-![[./Remediation2.png]]
+![[./Remediation2.png]]{width=50%}
 
-![[./Remediation3.png]]
+![[./Remediation3.png]]{width=50%}
 
-![[./Remediation4.png]]
+![[./Remediation4.png]]{width=50%}
 
-![[./Remediation5.png]]
+![[./Remediation5.png]]{width=50%}
 
 
 [Tutoriel_Numworks](./1_Ch5_Act2.pdf){:target="_blank"}
