@@ -23,6 +23,14 @@
 
 [TP_1](./2_Seq5_TP2.pdf){:target="_blank"}
 
+!!! example endline "Correction"
+    ![[TP2_Correction]]{width=100%}
+
+!!! example "TP 2"
+    ![[2_Thermique_TP1.pdf]]{width=100%}
+
+
+
 # Température
 
 !!! example "Activité"
