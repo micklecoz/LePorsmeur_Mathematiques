@@ -23,7 +23,7 @@
 
 [TP_1](./2_Seq5_TP2.pdf){:target="_blank"}
 
-!!! example inline end "Correction"
+??? example inline end "Correction"
     ![[TP2_Correction]]{width=100%}
 
 !!! example "TP 2"
