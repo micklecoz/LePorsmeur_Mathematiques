@@ -51,3 +51,10 @@
 <iframe title="trim.69EDC303-E5DC-40B8-AB8E-1DD74279E54D" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/ec4bff51-95ef-4d21-a494-d26c4c954c90" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 <iframe src="https://learningapps.org/watch?v=p0bm6asvt24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+
+<iframe src="https://phet.colorado.edu/sims/html/states-of-matter-basics/latest/states-of-matter-basics_fr.html"
+        width="800"
+        height="600"
+        allowfullscreen>
+</iframe>
