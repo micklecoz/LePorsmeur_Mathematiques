@@ -4,4 +4,4 @@
 
 ## Activité 1
 
-[Activite_1](./2_Se2_Act1.pdf){:target="_blank"}
+[Activite_1](./2_Seq2_Act1.pdf){:target="_blank"}
