@@ -5,3 +5,7 @@
 ## Activité 1
 
 [Activite_1](./2_Seq3_Act1.pdf){:target="_blank"}
+
+## Activité 2
+
+[Activite_1](./2_Seq5_Act2.pdf){:target="_blank"}
