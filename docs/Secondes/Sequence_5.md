@@ -8,4 +8,4 @@
 
 ## Activité 2
 
-[Activite_1](./2_Seq5_Act2.pdf){:target="_blank"}
+[Activite_2](./2_Seq5_Act2.pdf){:target="_blank"}
