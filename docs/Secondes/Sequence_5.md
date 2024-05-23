@@ -6,13 +6,15 @@
 
 [Activite_1](./2_Seq3_Act1.pdf){:target="_blank"}
 
+<iframe src="https://www.geogebra.org/3d/g7nnpsyx?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
 ## Activité 2
 
 [Activite_2](./2_Seq5_Act2.pdf){:target="_blank"}
 
 <iframe src="https://www.geogebra.org/3d/kdx48dqa?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
-<iframe src="https://www.geogebra.org/3d/g7nnpsyx?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
 
 ## Activité 3
 
