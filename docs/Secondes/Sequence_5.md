@@ -15,9 +15,13 @@
 <iframe src="https://www.geogebra.org/3d/g7nnpsyx?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 
-## Activité 3
+## Activité 4
 
-[Activite_3](./2_Ch2_Act4.pdf){:target="_blank"}
+[Activite_4](./2_Ch2_Act4.pdf){:target="_blank"}
+
+## Activité 5
+
+[Activite_5](./2_Ch2_Act5.pdf){:target="_blank"}
 
 !!! example "AP_1"
     ![[IMG_1285.jpeg]] 
