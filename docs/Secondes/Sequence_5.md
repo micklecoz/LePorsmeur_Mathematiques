@@ -16,7 +16,7 @@
 
 ## Activité 3
 
-[Activite_3](./2_Ch2_Act3.pdf){:target="_blank"}
+[Activite_3](./2_Seq3_Act3.pdf){:target="_blank"}
 
 ## Activité 4
 
