@@ -14,10 +14,15 @@
 
 <iframe src="https://www.geogebra.org/3d/g7nnpsyx?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
+## Activité 3
+
+[Activite_3](./2_Ch2_Act3.pdf){:target="_blank"}
 
 ## Activité 4
 
 [Activite_4](./2_Ch2_Act4.pdf){:target="_blank"}
+
+<iframe src="https://www.geogebra.org/3d/qmr9fzp6?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 ## Activité 5
 
