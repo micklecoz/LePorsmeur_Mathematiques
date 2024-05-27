@@ -30,5 +30,7 @@
 
 [Activite_5](./2_Ch2_Act5.pdf){:target="_blank"}
 
+<iframe src="https://www.geogebra.org/3d/cp8c77m3?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
 !!! example "AP_1"
     ![[IMG_1285.jpeg]] 
