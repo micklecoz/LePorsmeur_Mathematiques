@@ -26,7 +26,7 @@
     
 ## Activité 2
 
-/// ??? example "Pré-requis"
+<!-- ??? example "Pré-requis" -->
     ![[Graphiques.png]]{.center width=50%}
 
 [Activité-2](./2_Seq1_Act2.pdf){:target="_blank"}
