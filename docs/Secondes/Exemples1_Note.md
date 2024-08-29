@@ -26,7 +26,7 @@
 
 
 
-<!-- ## Activité 2 -->
+<!-- ## Activité 2 
 
 ??? example "Pré-requis" 
     ![[Graphiques.png]]{.center width=50%} 
@@ -55,5 +55,5 @@
 
 ## Evaluation d'entraînement
 
-[Evaluation-Entraînement](./2_Seq1_EvaluationFormative.pdf){:target="_blank"}
+[Evaluation-Entraînement](./2_Seq1_EvaluationFormative.pdf){:target="_blank"} -->
 
