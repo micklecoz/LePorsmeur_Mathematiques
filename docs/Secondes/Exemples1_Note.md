@@ -24,7 +24,7 @@
 ??? example "Correction"
     ![[Excel-1.png]]{.center width=50%}
 
-{--
+{==
 
 ## Activité 2
 
@@ -57,4 +57,4 @@
 
 [Evaluation-Entraînement](./2_Seq1_EvaluationFormative.pdf){:target="_blank"}
 
---}
+==}
