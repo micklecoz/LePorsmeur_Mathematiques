@@ -57,4 +57,3 @@
 
 [Evaluation-Entraînement](./2_Seq1_EvaluationFormative.pdf){:target="_blank"}
 
-==}
