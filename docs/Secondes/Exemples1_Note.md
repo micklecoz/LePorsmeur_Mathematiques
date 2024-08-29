@@ -24,9 +24,9 @@
 ??? example "Correction"
     ![[Excel-1.png]]{.center width=50%}
 
-{==
 
-## Activité 2
+
+<!-- ## Activité 2 -->
 
 ??? example "Pré-requis" 
     ![[Graphiques.png]]{.center width=50%} 
