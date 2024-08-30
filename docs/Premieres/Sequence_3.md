@@ -1,3 +1,5 @@
+<!--
+
 # Séquence-3_Fonctions du second degré
 
 !!! example "Point cours #1"
@@ -158,3 +160,6 @@
 
 ??? example "AP 1"
     ![[1_Seq3_AP1.jpg]]
+
+
+-->
