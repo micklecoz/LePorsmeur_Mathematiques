@@ -6,6 +6,8 @@
 
 [Geogebra](./geogebra-export2.html){:target="_blank"}
 
+<!--
+
 ## TP 2
 
 [Sequence-1_TP2](./2_Physique-Chimie_Seq1_TP2.pdf){:target="_blank"}
@@ -36,3 +38,5 @@
 <iframe src="https://learningapps.org/watch?v=p8tcq9zh223" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 https://kahoot.it
+
+-->
