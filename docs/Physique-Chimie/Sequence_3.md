@@ -1,3 +1,5 @@
+<!--
+
 # Sequence-3_Optique
 
 # La lumiere
@@ -45,3 +47,5 @@
 [Sequence-3_TP5](./2_Seq3_TP5.pdf){:target="_blank"}
 
 [Animation](https://web-labosims.org/animations/couleur_objet2/couleur_objet.html){:target="_blank"}
+
+-->
