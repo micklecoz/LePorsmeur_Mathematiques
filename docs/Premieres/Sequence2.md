@@ -1,3 +1,5 @@
+<!--
+
 # Sequence-2 _ Probabilités
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N7vj6gybRmg?si=wTyS4XUUPSzNh8Yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -60,3 +62,4 @@
 ![[Remediation_2.jpg]]
 ![[Remediation_3.png]]
 
+-->
