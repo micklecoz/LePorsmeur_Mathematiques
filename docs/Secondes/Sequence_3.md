@@ -1,3 +1,5 @@
+<!--
+
 # Séquence-3_Problèmes du 1er degré
 
 ## Cours
@@ -97,3 +99,5 @@
 
 ??? example "Correction AP_3"
     ![[2_Seq3_AP3_Corr.jpg]]
+
+-->
