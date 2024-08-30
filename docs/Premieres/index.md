@@ -1,4 +1,6 @@
-# Sequence-1 _ Statistiques à 2 variables
+<!--
+
+# Sequence-4 _ Statistiques à 2 variables
 
 ## Cours
 
@@ -38,5 +40,4 @@
 
 [AP_1](./1_Seq1_AP1.pdf){:target="_blank"}
 
-
-
+-->
