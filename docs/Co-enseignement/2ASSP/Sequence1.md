@@ -1,3 +1,5 @@
+<!--
+
 # Sequence 1
 
 [Activité-Pictogrammes_Correction](./2_ASSP_Chimie_Jeu-Pictogrammes.pdf){:target="_blank"}
@@ -46,3 +48,5 @@
 ![[Doc5b.png]]{.center width=50%}  
 ![[Doc5c.png]]{.center width=50%} 
 ![[Doc6.png]]{.center}
+
+-->
