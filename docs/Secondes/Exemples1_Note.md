@@ -19,8 +19,7 @@
 
 ## Cours
 
-??? example "Point-Cours" 
-    ![[./2_Seq1_Co.pdf)]]
+[Point-Cours](./2_Seq1_Co.pdf){:target="_blank"}
 
 <!-- ## Activité 2 
 
