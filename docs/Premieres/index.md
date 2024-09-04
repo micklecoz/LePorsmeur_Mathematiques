@@ -1,6 +1,6 @@
 
 
-# Sequence-4  _ Statistiques à 2 variables
+# Sequence-4_Statistiques à 2 variables
 
 <!--
 
