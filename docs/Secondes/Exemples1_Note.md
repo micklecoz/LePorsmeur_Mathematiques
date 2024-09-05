@@ -15,7 +15,7 @@
 
 
 ??? example "Correction"
-<!--    ![[Excel-1.png]]{.center width=50%} -->
+   ![[Excel-1.png]]{.center width=50%}
 
 ## Cours
 
