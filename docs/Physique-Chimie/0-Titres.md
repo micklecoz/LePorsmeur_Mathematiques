@@ -6,7 +6,12 @@
 
 [Geogebra](./geogebra-export2.html){:target="_blank"}
 
-<!--
+
+## Cours 1
+
+[Sequence-1_Cours-1](./2_Physique-Chimie_Seq1_Co1.pdf){:target="_blank"}
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mZmlUvHomrA?si=dwBP83scCaZ7fYLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## TP 2
 
@@ -14,16 +19,12 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7fpzxe0Pimo?si=q5uzct3p7ewRph2L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<!--
 
 ## TP 3
 
 [Sequence-1_TP3](./2_Physique-Chimie_Seq__TP3.pdf){:target="_blank"}
 
-## Cours 1
-
-[Sequence-1_Cours-1](./2_Physique-Chimie_Seq1_Co1.pdf){:target="_blank"}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mZmlUvHomrA?si=dwBP83scCaZ7fYLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Activité 1
 
