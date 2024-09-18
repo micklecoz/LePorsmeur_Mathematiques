@@ -17,9 +17,9 @@
 ??? example "Correction"
    ![[Excel-1.png]]{.center width=50%}
 
-<!-- ## Cours
+ ## Cours
 
-[Point-Cours](./2_Seq1_Co.pdf){:target="_blank"} -->
+[Point-Cours](./2_Seq1_Co.pdf){:target="_blank"} 
 
 ## Activité 2 
 
