@@ -21,6 +21,8 @@
 
 [Point-Cours](./2_Seq1_Co.pdf){:target="_blank"} 
 
+![[IMG_1416.jpeg]]{.center width=50%}
+
 ## Activité 2 
 
 ??? example "Pré-requis" 
