@@ -26,7 +26,7 @@
 
 [Sequence-1_TP3](./2_Physique-Chimie_Seq__TP3.pdf){:target="_blank"}
 
-<!--
+
 ## Activité 1
 
 [Sequence-1_Activité-1](./2_Physique-Chimie_Seq1_Act1.pdf){:target="_blank"}
@@ -38,6 +38,8 @@
 ## Activité 2
 
 <iframe src="https://learningapps.org/watch?v=p8tcq9zh223" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+<!--
 
 https://kahoot.it
 
