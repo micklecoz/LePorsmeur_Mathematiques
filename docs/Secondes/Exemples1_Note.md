@@ -19,7 +19,6 @@
 
 ## Cours
 
-[Point-Cours](./2_Seq1_Co.pdf){:target="_blank"} 
 
 ![[IMG_1418.jpeg]]{.center width=50%}
 ![[IMG_1416.jpeg]]{.center width=50%}
