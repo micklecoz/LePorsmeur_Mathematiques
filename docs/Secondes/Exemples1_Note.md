@@ -23,6 +23,8 @@
 ![[IMG_1418.jpeg]]{.center width=50%}
 ![[IMG_1416.jpeg]]{.center width=50%}
 
+<iframe src="https://learningapps.org/watch?v=pjw1539yj24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
 ## Activité 2 
 
 ??? example "Pré-requis" 
