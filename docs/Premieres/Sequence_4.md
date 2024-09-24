@@ -32,14 +32,13 @@
 
 <iframe src="https://app.Lumi.education/api/v1/run/AHRqOb/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
 
+??? example "Point Cours 2"
+    ![[1_Seq4_Co2.png]]
 
-
-### representer graphiquement les 2 suites Un et Vn
+### representation graphique des 2 suites Un et Vn
 
 <iframe src="https://www.geogebra.org/calculator/jzxp5zre?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
-??? example "Point Cours 2"
-    ![[1_Seq4_Co2.png]]
 
 <iframe src="https://app.Lumi.education/api/v1/run/hzWzqP/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
 
