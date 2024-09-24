@@ -109,3 +109,6 @@
 
 ??? example "Correction AP Partie 1"
     ![[IMG_1459.jpeg]]
+
+??? example "Correction AP Exercice 7"
+    ![[IMG_1468.jpeg]]
