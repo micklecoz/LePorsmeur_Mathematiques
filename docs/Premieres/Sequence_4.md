@@ -78,6 +78,8 @@
 
 ## Remédiation
 
+### Exercice 1
+
 ![[./Remediation1.png]]{width=50%}
 <iframe src="https://app.Lumi.education/api/v1/run/PpefAV/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
 
@@ -93,6 +95,17 @@
 ![[./Remediation5.png]]{width=50%}
 <iframe src="https://app.Lumi.education/api/v1/run/8KE71y/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
 
+## Remédiation
+
+### Exercice 2
+
+![[./IMG_1469.jpeg]]{width=50%}
+
+![[./IMG_1470.jpeg]]{width=50%}
+
+![[./IMG_1471.jpeg]]{width=50%}
+
+![[./IMG_1472.jpeg]]{width=50%}
 
 <!--
 
