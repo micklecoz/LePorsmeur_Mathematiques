@@ -54,9 +54,11 @@
 
 [Tableau_blanc_AEPA](https://www.tldraw.com/r/NG24nx7lw1MKEX6jrshiH?viewport=0%2C0%2C1080%2C707&page=page%3AssCOvI713G3nSHx-kh484){:target="_blank"}
 
-<!--
+
 
 ## Evaluation d'entraînement
 
-[Evaluation-Entraînement](./2_Seq1_EvaluationFormative.pdf){:target="_blank"} -->
+![[IMG_1473.jpeg]]
+![[IMG_1474.jpeg]]
+![[IMG_1475.jpeg]]
 
