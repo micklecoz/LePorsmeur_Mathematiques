@@ -2,12 +2,13 @@
 
 # Sequence-2_Statistiques à 2 variables
 
-
+<!--
 
 ## Cours
 
 [Cours Sequence-1](./1_Seq1_Co.pdf){:target="_blank"}
 
+-->
 
 ## Activite 1
 
@@ -37,8 +38,12 @@
 
 [Activité-4](./1_Seq1_Act4.pdf){:target="_blank"}
 
+-->
+
 !!! example "Tutoriel_Sequence-1 / Stats à 2 variables"
     <iframe title="trim.1E650B79-70B1-4E83-BE68-058D2BC7AA38" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/99659093-45ed-4cf0-b5f7-6113bd535fd4" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
+
+<!--
 
 ## AP 1
 
