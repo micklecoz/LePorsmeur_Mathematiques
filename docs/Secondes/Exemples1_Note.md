@@ -62,3 +62,10 @@
 ![[IMG_1474.jpeg]]
 ![[IMG_1475.jpeg]]
 
+# AP
+
+??? example "AP 1"
+    ![[Seq4_AP1.png]]{width=100%} 
+
+<iframe src="https://learningapps.org/watch?v=pem3fjhpa24" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
