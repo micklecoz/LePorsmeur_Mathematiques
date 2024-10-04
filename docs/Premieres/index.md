@@ -12,9 +12,13 @@
 
 ## Activite 1
 
+![[./IMG_1485.jpeg]]{width=50%}
 
 <iframe src="https://app.Lumi.education/api/v1/run/6bmhg3/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>
 
+![[./IMG_1486.jpeg]]{width=50%}
+
+![[./IMG_1487.jpeg]]{width=50%}
 
 <!--
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:50%;height:50%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x82nr33?autoplay=1" width="100%" height="100%" allowfullscreen title="Dailymotion Video Player" allow="autoplay"> </iframe> </div>
