@@ -104,9 +104,11 @@
 
 <iframe title="trim.9113F42B-61B8-4758-BA54-E95D67D4FB62" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/c854c4a3-f20d-4053-8422-41d99beea468" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
+
+<--!
 ??? example "Correction boîte à moustaches"
     ![[BaM_2ASSP.jpg]]{width=25%}
-
+-->
 # AP
 
 ??? example "AP 1"
