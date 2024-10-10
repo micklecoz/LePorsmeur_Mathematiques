@@ -38,13 +38,13 @@
 
 ## Point Cours
 
-[Cours Sequence-1](./1_Seq1_Co.pdf){:target="_blank"}
+[Cours Sequence-2](./1_Seq1_Co.pdf){:target="_blank"}
 
 
 
 ## Activité 3
 
-[Evaluation-Entraînement](./1_Seq1_EvaluationFormative.pdf){:target="_blank"}
+[Activité_3](./1_Seq1_EvaluationFormative.pdf){:target="_blank"}
 
 [Geogebra](./geogebra-export.html){:target="_blank"}
 
