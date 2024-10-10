@@ -2,14 +2,6 @@
 
 # Sequence-2_Statistiques à 2 variables
 
-<!--
-
-## Cours
-
-[Cours Sequence-1](./1_Seq1_Co.pdf){:target="_blank"}
-
--->
-
 ## Activite 0
 
 !!! example "Tutoriel_Sequence-1 / Stats à 2 variables"
@@ -41,6 +33,12 @@
 ## Activite 2
 
 [Activité-2](./1_Seq1_Act2.pdf){:target="_blank"}
+
+
+
+## Point Cours
+
+[Cours Sequence-1](./1_Seq1_Co.pdf){:target="_blank"}
 
 <!--
 
