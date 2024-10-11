@@ -54,9 +54,11 @@
 
 ![[./IMG_1528.jpeg]]{width=50%}
 
+<iframe src="https://www.geogebra.org/classic/gpydgzcm?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
 ![[./IMG_1529.jpeg]]{width=50%}
 
-<iframe src="https://www.geogebra.org/classic/gpydgzcm?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
 
 ![[./IMG_1530.jpeg]]{width=50%}
 
