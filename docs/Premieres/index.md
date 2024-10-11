@@ -46,6 +46,14 @@
 
 [Activité_3](./1_Seq1_EvaluationFormative.pdf){:target="_blank"}
 
+![[./IMG_1528.jpeg]]{width=50%}
+
+![[./IMG_1529.jpeg]]{width=50%}
+
+![[./IMG_1530.jpeg]]{width=50%}
+
+![[./IMG_1531.jpeg]]{width=50%}
+
 [Geogebra](./geogebra-export.html){:target="_blank"}
 
 <!--
