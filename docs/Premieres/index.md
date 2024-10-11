@@ -46,7 +46,7 @@
 
 [Activité_3](./1_Seq1_EvaluationFormative.pdf){:target="_blank"}
 
-![[./IMG_1526.jpeg]]{width=50%}
+![[./IMG_1526.png]]{width=50%}
 
 ![[./IMG_1527.jpeg]]{width=50%}
 
