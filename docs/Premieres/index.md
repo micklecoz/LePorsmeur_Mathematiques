@@ -68,7 +68,7 @@
 
 ## Evaluation d entraînement
 
-[Evaluation d entrainement](./1_Seq1_EvalForm.pdf){:target="_blank"}
+[Evaluation d entrainement](./1_Seq2_EvalFormative.pdf){:target="_blank"}
 
 <!--
 
