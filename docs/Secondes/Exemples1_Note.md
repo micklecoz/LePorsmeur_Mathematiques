@@ -76,18 +76,18 @@
 ### voici les notes de Maths d une classe de Seconde (évaluation notée sur 15)
 
 !!! example "Notes Seconde"
-
+<!--
     ![[IMG_1556.jpeg]]{width=5%}
     ![[IMG_1557.jpeg]]{width=5%}
 
-<!--
+-->
     ![[IMG_1514.jpeg]]{width=5%}
     ![[IMG_1512.jpeg]]{width=5%}
     ![[IMG_1516.jpeg]]{width=5%}
     ![[IMG_1513.jpeg]]{width=5%}
     ![[IMG_1515.jpeg]]{width=5%}
 
--->
+
 
 <iframe src="https://app.Lumi.education/api/v1/run/yS-5HU/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
 
