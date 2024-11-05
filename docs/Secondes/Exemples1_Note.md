@@ -76,11 +76,6 @@
 ### voici les notes de Maths d une classe de Seconde (évaluation notée sur 15)
 
 !!! example "Notes Seconde"
-<!--
-    ![[IMG_1556.jpeg]]{width=5%}
-    ![[IMG_1557.jpeg]]{width=5%}
-
--->
     ![[IMG_1514.jpeg]]{width=5%}
     ![[IMG_1512.jpeg]]{width=5%}
     ![[IMG_1516.jpeg]]{width=5%}
