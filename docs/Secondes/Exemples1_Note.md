@@ -77,6 +77,9 @@
 
 !!! example "Notes Seconde"
 
+    ![[IMG_1556.jpeg]]{width=5%}
+    ![[IMG_1557.jpeg]]{width=5%}
+
 <!--
     ![[IMG_1514.jpeg]]{width=5%}
     ![[IMG_1512.jpeg]]{width=5%}
