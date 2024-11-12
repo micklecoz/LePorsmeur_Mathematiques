@@ -99,8 +99,13 @@
 
 ### on appelle cette valeur le 3éme quartile : Q3
 
+
 !!! example "Activité 2"
     ![[2seq5act4.pdf]]
+
+### Représenter sur votre calculatrice Numwork, la boîte à moustaches de la série de notes, en vous aidant du tutoriel vidéo ci-dessous
+
+<iframe title="trim.9113F42B-61B8-4758-BA54-E95D67D4FB62" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/c854c4a3-f20d-4053-8422-41d99beea468" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 !!! example "Activité 3"
     ![[2_Seq4_Act2.png]]{width=50%}
@@ -112,11 +117,15 @@
 <div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/vfwpqzw4purjw5ig" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p><div style="display:flex;align-items:center;justify-content:end;margin:0;height:28px"><a href="https://padlet.com?ref=embed" style="display:block;flex-grow:0;margin:0;border:none;padding:0;text-decoration:none" target="_blank"><div style="display:flex;align-items:center;"><img src="https://padlet.net/embeds/made_with_padlet_2022.png" width="114" height="28" style="padding:0;margin:0;background:0 0;border:none;box-shadow:none" alt="Fait avec Padlet"></div></a></div></div>
 
 
-### Représenter sur votre calculatrice Numwork, la boîte à moustaches de la série de notes, en vous aidant du tutoriel vidéo ci-dessous
-
-<iframe title="trim.9113F42B-61B8-4758-BA54-E95D67D4FB62" width="560" height="315" src="https://tube-sciences-technologies.apps.education.fr/videos/embed/c854c4a3-f20d-4053-8422-41d99beea468" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
 
 
+## Cours-Partie 2
+
+[Cours-Partie 2](./.pdf){:target="_blank"}
+
+## Exercice
+
+## Evaluation d entraînement
 
 # AP
 
