@@ -121,11 +121,15 @@
 
 ## Cours-Partie 2
 
-[Cours-Partie 2](./.pdf){:target="_blank"}
+[Cours-Partie 2](./2seq5co.pdf){:target="_blank"}
 
 ## Exercice
 
+[Exercice](./2_Seq4_EvalSommative.pdf){:target="_blank"}
+
 ## Evaluation d entraînement
+
+[Evaluation-Entrainement](./2_Ch4_EvalFormative.pdf){:target="_blank"}
 
 # AP
 
