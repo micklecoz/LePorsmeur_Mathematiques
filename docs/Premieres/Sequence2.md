@@ -9,7 +9,7 @@
 
 
 ??? example inline end "Correction"
-    ![[1_Seq2_Act_Corr.jpg]]{width=115%}
+<!--    ![[1_Seq2_Act_Corr.jpg]]{width=115%} -->
 
 [Activité-1](./1_Seq2_Act1.pdf){:target="_blank"}
 
