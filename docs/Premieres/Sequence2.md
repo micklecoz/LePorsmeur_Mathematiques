@@ -23,6 +23,9 @@
 
 ## Exercices
 
+<!--
+
+
 ??? example inline end "Correction"
     ![[1_Seq2_Exercice_1_Corr.jpg]]{width=115%}
 
@@ -35,6 +38,8 @@
 
 ??? example inline end "Correction"
 <!--    ![[Correction_Exercice_3.jpg]]{width=115%} -->
+
+-->
 
 !!! example "Exercice_3"
     ![[Exercice_3.jpg]]{width=75%}
