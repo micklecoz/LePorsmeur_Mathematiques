@@ -39,7 +39,7 @@
 -->
 
 ??? example inline end "Correction"
-<!--    ![[Correction_Exercice_3.jpg]]{width=115%} -->
+    ![[Correction_Exercice_3.jpg]]{width=115%}
 
 
 !!! example "Exercice_3"
