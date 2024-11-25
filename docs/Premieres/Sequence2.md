@@ -32,14 +32,15 @@
 [Exercice_1](./1_Seq2_Act2.pdf){:target="_blank"}
 
 ??? example inline end "Correction"
-<!--    ![[1_Seq2_Exercice_2_Corr.jpg]]{width=115%} -->
+    ![[1_Seq2_Exercice_2_Corr.jpg]]{width=115%}
 
-[Exercice_2](./1_Seq2_Act3.pdf){:target="_blank"} -->
+[Exercice_2](./1_Seq2_Act3.pdf){:target="_blank"}
+
+-->
 
 ??? example inline end "Correction"
 <!--    ![[Correction_Exercice_3.jpg]]{width=115%} -->
 
--->
 
 !!! example "Exercice_3"
     ![[Exercice_3.jpg]]{width=75%}
