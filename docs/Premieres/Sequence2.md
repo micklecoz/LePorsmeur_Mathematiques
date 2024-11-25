@@ -58,6 +58,8 @@
 ??? example "indice question 4"
     ![[Corr_Exercice_3_Q4.png]]{width=50%}
 
+<!--
+
 ??? example "AP 1"
     ![[Seq2_AP1.png]]
 
