@@ -1,4 +1,3 @@
-<!--
 # Sequence-2 _ Probabilités
 
 ## Activité
@@ -14,6 +13,8 @@
 
 
 <iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FPJCEO/questions/609790cf45452c11566787b4" width="100%"></iframe>
+
+<!--
 
 [Cours](./2_Seq2_Co.pdf){:target="_blank"}
 
