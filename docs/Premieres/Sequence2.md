@@ -42,7 +42,7 @@
     ![[Correction_Exercice_3.jpg]]{width=115%}
 
 
-!!! example "Exercice_3"
+!!! example "Exercice_1"
     ![[Exercice_3.jpg]]{width=75%}
 
 <iframe src="https://app.Lumi.education/api/v1/run/_YSOuU/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
@@ -59,10 +59,12 @@
 ??? example "indice question 4"
     ![[Corr_Exercice_3_Q4.png]]{width=50%}
 
-<!--
+
 
 ??? example "AP 1"
     ![[Seq2_AP1.png]]
+
+<!--
 
 ## Evaluation d'entraînement
 
