@@ -61,7 +61,13 @@
 ??? example "indice question 4"
     ![[Corr_Exercice_3_Q4.png]]{width=50%}
 
-[Exercice_2](./1_Seq2_EvaluationFormative.pdf){:target="_blank"}
+<!--
+
+## Evaluation d entrainement 
+
+[Evaluation_Entrainement](./1_Seq2_EvaluationFormative.pdf){:target="_blank"}
+
+-->
 
 ??? example "AP 1"
     ![[Seq2_AP1.png]]
