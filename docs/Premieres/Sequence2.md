@@ -15,13 +15,12 @@
 
 [Activité-1](./1_Seq2_Act1.pdf){:target="_blank"}
 
-<!--
+
 
 ## Cours
 
 [Cours Sequence-2](./1_Seq2_Cours.pdf){:target="_blank"}
 
--->
 
 ## Exercices
 
@@ -36,9 +35,10 @@
 ??? example inline end "Correction"
     ![[1_Seq2_Exercice_2_Corr.jpg]]{width=115%}
 
+-->
+
 [Exercice_2](./1_Seq2_Act3.pdf){:target="_blank"}
 
--->
 
 ??? example inline end "Correction"
     ![[Correction_Exercice_3.jpg]]{width=115%}
