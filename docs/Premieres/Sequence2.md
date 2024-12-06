@@ -40,6 +40,14 @@
 [Exercice_2](./1_Seq2_Act3.pdf){:target="_blank"}
 
 
+![[1_Seq2_Act_Corr.jpg]]{width=115%}
+
+??? example inline end "Correction"
+    ![[1_Seq2_Act_Corr.jpg]]{width=115%}
+    ![[1_Seq2_Act_Corr.jpg]]{width=115%}
+
+
+
 ??? example inline end "Correction"
     ![[Correction_Exercice_3.jpg]]{width=115%}
 
