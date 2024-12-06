@@ -40,7 +40,6 @@
 ??? example inline end "Correction"
     ![[IMG07_49.jpeg]]{width=115%}
     ![[IMG07_50.jpeg]]{width=115%}
-    ![[IMG07_77.jpeg]]{width=115%}
 
 
 
@@ -50,7 +49,8 @@
 
 [Exercice_2](./1_Seq2_Act3.pdf){:target="_blank"}
 
-
+??? example inline end "Correction"
+    ![[IMG1625.jpeg]]{width=115%}
 
 
 !!! example "Exercice_1"
