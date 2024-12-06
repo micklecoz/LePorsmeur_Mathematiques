@@ -43,13 +43,15 @@
 ![[1_Seq2_Act_Corr.jpg]]{width=115%}
 
 ??? example inline end "Correction"
-    ![[1_Seq2_Act_Corr.jpg]]{width=115%}
-    ![[1_Seq2_Act_Corr.jpg]]{width=115%}
+    ![[IMG07_49.jpeg]]{width=115%}
+    ![[IMG07_50.jpeg]]{width=115%}
+    ![[IMG07_77.jpeg]]{width=115%}
 
 
 
 ??? example inline end "Correction"
-    ![[Correction_Exercice_3.jpg]]{width=115%}
+    ![[IMG1625.jpeg]]{width=115%}
+    ![[IMG1626.jpeg]]{width=115%}
 
 
 !!! example "Exercice_1"
