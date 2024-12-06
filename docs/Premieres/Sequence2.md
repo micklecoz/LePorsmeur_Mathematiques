@@ -50,7 +50,7 @@
 [Exercice_2](./1_Seq2_Act3.pdf){:target="_blank"}
 
 ??? example inline end "Correction"
-    ![[IMG1625.jpeg]]{width=115%}
+    ![[IMG_0857.jpeg]]{width=115%}
 
 
 !!! example "Exercice_1"
