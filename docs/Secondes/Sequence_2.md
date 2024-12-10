@@ -14,7 +14,7 @@
 
 <iframe allowfullscreen frameborder="0" height="100%" mozallowfullscreen style="min-width: 500px; min-height: 355px" src="https://app.wooclap.com/events/FPJCEO/questions/609790cf45452c11566787b4" width="100%"></iframe>
 
-<!--
+
 
 [Cours](./2_Seq2_Co.pdf){:target="_blank"}
 
@@ -86,4 +86,3 @@
 
 <iframe src="https://app.Lumi.education/api/v1/run/TmCg1i/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
 
--->
