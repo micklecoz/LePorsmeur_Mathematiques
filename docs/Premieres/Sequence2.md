@@ -70,12 +70,14 @@
 ??? example "indice question 4"
     ![[Corr_Exercice_3_Q4.png]]{width=50%}
 
-<!--
+
 
 ??? example inline end "Correction Exercice 3"
     ![[1_Seq2_Exercice_1_Corr.jpg]]{width=115%}
 
 [Exercice_3](./1_Seq1_EvaluationSommative.pdf){:target="_blank"}
+
+<!--
 
 ## Evaluation d entrainement 
 
