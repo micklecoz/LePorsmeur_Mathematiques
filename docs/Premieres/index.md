@@ -72,7 +72,7 @@
 
 ## Remédiation
 
-[Activité-4](./1_Seq2_Act4.pdf){:target="_blank"}
+[Activité-4](./1_Seq3_Act4.pdf){:target="_blank"}
 
 
 <!--
