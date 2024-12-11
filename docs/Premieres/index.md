@@ -70,13 +70,9 @@
 
 [Evaluation d entrainement](./1_Seq2_EvalFormative.pdf){:target="_blank"}
 
-<!--
-
-## Activite 4
+## Remédiation
 
 [Activité-4](./1_Seq1_Act4.pdf){:target="_blank"}
-
--->
 
 
 <!--
