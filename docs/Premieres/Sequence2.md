@@ -83,17 +83,18 @@
 
 [Evaluation_Entrainement](./1_Seq2_EvaluationFormative.pdf){:target="_blank"}
 
--->
+
 
 ??? example "AP 1"
     ![[Seq2_AP1.png]]
 
-
+-->
 
 ## Remediation
 
+![[Remediation_13.PNG]]
 ![[Remediation_1.jpg]]
 ![[Remediation_2.jpg]]
-![[Remediation_13.PNG]]
+
 
 
