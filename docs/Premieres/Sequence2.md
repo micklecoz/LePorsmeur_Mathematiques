@@ -88,9 +88,6 @@
 ??? example "AP 1"
     ![[Seq2_AP1.png]]
 
-<!--
-
-
 
 
 ## Remediation
@@ -99,4 +96,4 @@
 ![[Remediation_2.jpg]]
 ![[Remediation_3.png]]
 
--->
+
