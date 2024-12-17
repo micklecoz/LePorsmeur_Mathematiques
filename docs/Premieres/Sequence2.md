@@ -77,7 +77,7 @@
 
 [Exercice_3](./1_Seq1_EvaluationSommative.pdf){:target="_blank"}
 
-<!--
+
 
 ## Evaluation d entrainement 
 
@@ -88,7 +88,6 @@
 ??? example "AP 1"
     ![[Seq2_AP1.png]]
 
--->
 
 ## Remediation
 
