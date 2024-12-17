@@ -82,8 +82,8 @@
 ## Evaluation d entrainement 
 
 ??? example inline end "Correction Evaluation d entrainement"
-    ![[IMG_0892.jpg]]{width=115%}
-    ![[IMG_0893.jpg]]{width=115%}
+    ![[IMG_0892.jpeg]]{width=115%}
+    ![[IMG_0893.jpeg]]{width=115%}
 
 [Evaluation_Entrainement](./1_Seq2_EvaluationFormative.pdf){:target="_blank"}
 
