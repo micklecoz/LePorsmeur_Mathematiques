@@ -92,6 +92,11 @@
 ??? example "AP 1"
     ![[Seq2_AP1.png]]
 
+??? example "AP 2"
+    ![[AP_3.png]]
+
+
+
 
 ## Remediation
 
