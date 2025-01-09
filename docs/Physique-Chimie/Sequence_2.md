@@ -3,7 +3,7 @@
 
 ## TP 1
 
-[Sequence-2_TP1](./2_Physique-Chimie_Seq2_TP3.pdf){:target="_blank"}
+[Sequence-2_TP1](./2_Physique-Chimie_Seq1_TP3.pdf){:target="_blank"}
 
 <!--
 
