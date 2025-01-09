@@ -1,8 +1,9 @@
-<!--
 
-# Sequence-2_Chimie
+# Sequence-3_Chimie
 
 ## TP 1
+
+<!--
 
 [Sequence-2_TP1](./2_Physique-Chimie_Seq2_TP1.pdf){:target="_blank"}
 
@@ -44,8 +45,9 @@
 
 [Sequence-2_TP3](./2_Physique-Chimie_Seq2_TP3_ConcentrationMassique.pdf){:target="_blank"}
 
+-->
 
-## Les molecules
+### Les molecules
 
 <iframe src="https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_fr.html"
         width="800"
@@ -63,4 +65,4 @@
 
 https://view.genial.ly/5e824b73a8bed70dad07d3c9
 
--->
+
