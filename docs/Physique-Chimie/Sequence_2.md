@@ -49,6 +49,8 @@
 
 ### Les molecules
 
+<!--
+
 <iframe src="https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_fr.html"
         width="800"
         height="600"
@@ -60,6 +62,8 @@
         height="600"
         allowfullscreen>
 </iframe>
+
+-->
 
 ## Escape Game
 
