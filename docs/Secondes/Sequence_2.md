@@ -29,12 +29,12 @@
 [Exercice_2](./2_Seq2_ExB.pdf){:target="_blank"}
 
 
-<!--
+
 
 ??? example inline end "Correction"
     ![[Correction_Exercice_3.jpg]]{width=115%}
 
--->
+
 
 !!! example "Exercice_3"
     ![[Exercice_3.jpg]]{width=75%}
