@@ -76,7 +76,7 @@
 ??? example inline end "Correction Exercice 3"
     ![[1_Seq2_Exercice_1_Corr.jpg]]{width=115%}
 
-[Exercice_3](./1_Seq1_EvaluationSommative.pdf){:target="_blank"}
+[Exercice_3](./1_Seq2_Act2.pdf){:target="_blank"}
 
 
 
