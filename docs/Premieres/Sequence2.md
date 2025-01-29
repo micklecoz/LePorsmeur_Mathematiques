@@ -24,28 +24,11 @@
 
 ## Exercices
 
-<!--
-
 
 ??? example inline end "Correction"
     ![[1_Seq2_Exercice_1_Corr.jpg]]{width=115%}
 
 [Exercice_1](./1_Seq2_Act2.pdf){:target="_blank"}
-
-??? example inline end "Correction"
-    ![[1_Seq2_Exercice_2_Corr.jpg]]{width=115%}
-
-
-??? example inline end "Correction"
-    ![[IMG07_49.jpeg]]{width=115%}
-    ![[IMG07_50.jpeg]]{width=115%}
-
-
-
-
-
-??? example inline end "Correction Exercice 1"
-    ![[IMG_0857.jpeg]]{width=115%}
 
 
 !!! example "Exercice_1"
@@ -66,6 +49,10 @@
 
 ??? example "indice question 4"
     ![[Corr_Exercice_3_Q4.png]]{width=50%}
+
+??? example inline end "Correction"
+    ![[IMG07_49.jpeg]]{width=115%}
+    ![[IMG07_50.jpeg]]{width=115%}
 
 ??? example inline end "Correction Exercice 2"
     ![[IMG1625.jpeg]]{width=115%}
