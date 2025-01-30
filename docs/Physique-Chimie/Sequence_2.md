@@ -30,16 +30,16 @@
 
 <iframe src="https://learningapps.org/watch?app=2593042" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
-[Activite 1](./2_Seq2_Act1.pdf){:target="_blank"}
-
 ??? example "Correction"
     ![[CorrLearningApps.png]]{.center width=50%}
+
+[Activite 1](./2_Seq2_Act1.pdf){:target="_blank"}
+
+
 
 [Sequence-2_Cours](./2_Physique-Chimie_Seq2_Co3_Ex.pdf){:target="_blank"}
 
 
-??? example "Correction de l'exercice"
-    [Sequence-2_Cours](./2_Physique-Chimie_Seq2_Co3.pdf){:target="_blank"}
 
     
 ## TP 3
