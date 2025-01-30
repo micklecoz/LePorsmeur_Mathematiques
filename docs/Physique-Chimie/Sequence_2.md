@@ -5,7 +5,6 @@
 
 [Sequence-2_TP1](./2_Physique-Chimie_Seq1_TP3.pdf){:target="_blank"}
 
-<!--
 
 [Sequence-2_TP1](./2_Physique-Chimie_Seq2_TP1.pdf){:target="_blank"}
 
@@ -47,11 +46,9 @@
 
 [Sequence-2_TP3](./2_Physique-Chimie_Seq2_TP3_ConcentrationMassique.pdf){:target="_blank"}
 
--->
 
 ### Les molecules
 
-<!--
 
 <iframe src="https://phet.colorado.edu/sims/html/build-a-molecule/latest/build-a-molecule_fr.html"
         width="800"
@@ -65,7 +62,6 @@
         allowfullscreen>
 </iframe>
 
--->
 
 ## Escape Game
 
