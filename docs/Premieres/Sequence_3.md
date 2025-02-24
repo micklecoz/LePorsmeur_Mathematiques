@@ -1,4 +1,4 @@
-# Séquence-3_Fonctions du second degré
+# Séquence-4_Fonctions du second degré
 
 !!! example "Point cours #1"
     ![[1_Seq3_Co1.jpg]]
