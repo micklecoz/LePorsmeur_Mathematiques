@@ -23,7 +23,7 @@
 
 ## f(x) = ax^2 + bx + c : trouver les coefficients a,b et c
 
-<!-
+<-!
 
 ### Angry Birds : Activité Géogébra N°1
 
