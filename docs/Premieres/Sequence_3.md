@@ -23,7 +23,6 @@
 
 ## f(x) = ax^2 + bx + c : trouver les coefficients a,b et c
 
-<-!
 
 ### Angry Birds : Activité Géogébra N°1
 
@@ -31,6 +30,9 @@
 
 !!! example "Exercice Géogébra"
     <iframe src="https://www.geogebra.org/classic/pVWT56Wb?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+!!! example "Exercice Géogébra"
+    <iframe src="https://www.geogebra.org/classic/zbbngdem?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
 !!! example "Correction Géogébra"
     <iframe src="https://www.geogebra.org/calculator/jzaehfan?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
