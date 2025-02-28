@@ -31,7 +31,8 @@
 
 !!! example "Exercice Géogébra"
    <iframe src="https://www.geogebra.org/classic/zcbrqgyw?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
-<-!
+   
+<!-
 
 !!! example "Correction Géogébra"
     <iframe src="https://www.geogebra.org/calculator/jzaehfan?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
@@ -48,7 +49,7 @@
 !!! example "Exercice Géogébra"
     <iframe src="https://www.geogebra.org/classic/HpdYBtE9?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
-<-!
+<!-
 
 !!! example "Correction Géogébra"
     <iframe src="https://www.geogebra.org/calculator/h2r7bwak?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
