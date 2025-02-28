@@ -34,9 +34,12 @@
 !!! example "Exercice Géogébra"
     <iframe src="https://www.geogebra.org/classic/zbbngdem?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
+<-!
+
 !!! example "Correction Géogébra"
     <iframe src="https://www.geogebra.org/calculator/jzaehfan?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
+-->
 
 ### Angry Birds : Activité Géogébra N°2
 
@@ -48,8 +51,12 @@
 !!! example "Exercice Géogébra"
     <iframe src="https://www.geogebra.org/classic/HpdYBtE9?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
+<-!
+
 !!! example "Correction Géogébra"
     <iframe src="https://www.geogebra.org/calculator/h2r7bwak?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+
+-->
 
 ## résoudre f(x) = ax^2 + bx + c = 0
 
