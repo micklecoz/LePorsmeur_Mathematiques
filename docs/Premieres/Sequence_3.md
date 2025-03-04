@@ -50,7 +50,7 @@
 
 
 !!! example "Exercice Géogébra"
-    <iframe src="https://www.geogebra.org/classic/ayhyefkk?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+    <iframe scrolling="no" title="AngryBirds #2" src="https://www.geogebra.org/material/iframe/id/ayhyefkk/width/1592/height/774/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/false/ctl/false" width="1592px" height="774px" style="border:0px;"> </iframe>
     
 <!--
 
