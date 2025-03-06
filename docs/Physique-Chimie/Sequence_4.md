@@ -1,6 +1,4 @@
-<!--
-
-# Sequence-4_Thermique
+# Sequence-3_Thermique
 
 # Chaleur
 
@@ -60,5 +58,3 @@
         height="600"
         allowfullscreen>
 </iframe>
-
--->
