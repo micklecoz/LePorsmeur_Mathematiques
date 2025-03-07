@@ -45,7 +45,7 @@
 !!! example "Point cours #2"
     ![[1_Seq3_Co2.jpg]]
 
-[Activité-2](./1_Seq3_Act2.pdf){:target="_blank"}
+
 
 
 
