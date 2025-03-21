@@ -47,9 +47,6 @@
     ![[1_Seq3_Co2.jpg]]
 
 
-
-
-
 !!! example "Exercice Géogébra"
     <iframe src="https://www.geogebra.org/classic/ayhyefkk?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 
@@ -60,7 +57,6 @@
 
 !!! example "Correction Géogébra"
     <iframe src="https://www.geogebra.org/calculator/h2r7bwak?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
-
 
 
 ## résoudre f(x) = ax^2 + bx + c = 0
@@ -136,10 +132,6 @@
 
 ![[./Seq3_911.jpg]]    
 
-
-![[./Seq3_8.jpg]]
-
-<iframe src="https://app.Lumi.education/api/v1/run/tBgorC/embed" width="1088" height="720" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8" />
 
 
 ![[./Seq3_9.jpg]]
