@@ -1,5 +1,3 @@
-<!--
-
 # Sequence-3_Optique
 
 # La lumiere
@@ -48,4 +46,3 @@
 
 [Animation](https://web-labosims.org/animations/couleur_objet2/couleur_objet.html){:target="_blank"}
 
--->
