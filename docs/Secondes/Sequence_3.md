@@ -1,4 +1,4 @@
-# Séquence-4_Problèmes du 1er degré
+# Séquence-5_Problèmes du 1er degré
 
 ## Cours
 
