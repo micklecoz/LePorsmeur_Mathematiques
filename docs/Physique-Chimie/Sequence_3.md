@@ -1,4 +1,4 @@
-# Sequence-3_Optique
+# Sequence-2_Optique
 
 # La lumiere
 
