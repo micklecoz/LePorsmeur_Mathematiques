@@ -25,9 +25,6 @@
 ## Exercices
 
 
-??? example inline end "Correction"
-    ![[1_Seq2_Exercice_1_Corr.jpg]]{width=115%}
-
 [Exercice_1](./1_Seq2_Act2.pdf){:target="_blank"}
 
 
