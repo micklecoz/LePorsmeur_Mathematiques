@@ -1,18 +1,18 @@
 # Séquence-1_Suites Géométriques
 
-    ??? example "Point Cours 3"
+??? example "Point Cours 3"
     ![[./Suites_Geometriques.pdf]]
-
-    !!! example "Exercice 1"
+    
+!!! example "Exercice 1"
     ![[./Suite-Geometrique_Exercice-1.pdf]]
 
-    ??? example "Correction Ex 1"
+??? example "Correction Ex 1"
     ![[./Suite-Geometrique_Correction-Exercice-1.pdf]]
 
-    !!! example "Exercice 2"
+!!! example "Exercice 2"
     ![[./Suite-Geometrique_Exercice-2.pdf]]
 
-    ??? example "Correction Ex 2"
+??? example "Correction Ex 2"
     ![[./Suites_Geometriques.pdf]]
 
 
