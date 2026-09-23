@@ -4,13 +4,13 @@
     ![[Suites_Geometriques.pdf]]
 
 !!! example "Exercice 1"
-    ![[Suites_Geometriques.pdf]]
+    ![[Suite-Geometrique_Exercice-1.pdf]]
 
 ??? example "Correction Ex 1"
-    ![[Suites_Geometriques.pdf]]
+    ![[Suite-Geometrique_Correction-Exercice-1.pdf]]
 
 !!! example "Exercice 2"
-    ![[Suites_Geometriques.pdf]]
+    ![[Suite-Geometrique_Exercice-2.pdf]]
 
 ??? example "Correction Ex 2"
     ![[Suites_Geometriques.pdf]]
