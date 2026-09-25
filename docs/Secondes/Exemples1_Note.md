@@ -44,14 +44,7 @@
 [Activité-3](./2_Seq1_Act3-1.pdf){:target="_blank"}
 
 
-??? example "Correction"
-    ![[1.png]]{.center width=50%}
-    ![[2.png]]{.center width=50%}
-
-
-[Tableau_blanc_ASSP](https://www.tldraw.com/r/NG24nx7lw1MKEX6jrshiH?viewport=0%2C0%2C1080%2C707&page=page%3AssCOvI713G3nSHx-kh484){:target="_blank"}
-
-[Tableau_blanc_AEPA](https://www.tldraw.com/r/NG24nx7lw1MKEX6jrshiH?viewport=0%2C0%2C1080%2C707&page=page%3AssCOvI713G3nSHx-kh484){:target="_blank"}
+<div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/s023wocqpqy80p4yvgl1" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p></div>
 
 
 
