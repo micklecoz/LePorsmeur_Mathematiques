@@ -18,8 +18,8 @@
 ??? example "Point_cours_4"
     ![[Co_4.pdf]]
 
-??? example "Point_cours_4-2nde-version"
-    ![[Co_4-2.pdf]]
+!!! example "Eval-Formative"
+    ![[EvalFormative.pdf]]
 
 <iframe src="https://learningapps.org/watch?app=1814764" style="border:0px;width:100%;height:500px" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
