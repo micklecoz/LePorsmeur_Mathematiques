@@ -16,7 +16,7 @@
     ![[.pdf]]
 
 ??? example "Point_cours_4"
-    ![[Co_4-2.pdf]]
+    ![[Co-4-2.pdf]]
 
 !!! example "Eval-Formative"
     ![[EvalFormative.pdf]]
