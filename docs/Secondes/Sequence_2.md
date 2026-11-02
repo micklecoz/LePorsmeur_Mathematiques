@@ -34,6 +34,7 @@
 ??? example inline end "Correction"
     ![[Correction_Exercice_3.jpg]]{width=115%}
 
+-->
 
 !!! example "Exercice_3"
     ![[Exercice_3.jpg]]{width=75%}
@@ -54,7 +55,7 @@
     ![[Corr_Exercice_3_Q4.png]]{width=50%}
 
 
-<-
+<--
 
 ## Evaluation d'entraînement
 
