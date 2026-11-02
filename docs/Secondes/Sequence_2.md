@@ -18,7 +18,7 @@
 
 [Cours](./2_Seq2_Co.pdf){:target="_blank"}
 
-<-
+<--
 ## Exercices
 
 [Exercice_1](./2_Seq2_Ex.pdf){:target="_blank"}
@@ -34,7 +34,6 @@
 ??? example inline end "Correction"
     ![[Correction_Exercice_3.jpg]]{width=115%}
 
-->
 
 !!! example "Exercice_3"
     ![[Exercice_3.jpg]]{width=75%}
@@ -98,4 +97,4 @@
 ??? example "AP_3"
     ![[AP_3.jpg]]
 
-->
+-->
