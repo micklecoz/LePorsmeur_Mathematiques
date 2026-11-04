@@ -1,0 +1,768 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>De la friperie à la direction — Jeu de progression</title>
+<style>
+  :root{
+    --bg: #1B2430;
+    --bg-soft: #212B39;
+    --card: #26313F;
+    --card-border: #35414F;
+    --gold: #CE9F3E;
+    --gold-dim: #8C7038;
+    --teal: #3E9C82;
+    --brick: #B4482E;
+    --text: #F1EDE4;
+    --text-muted: #9AA5B1;
+    --locked: #465060;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family: ui-sans-serif, system-ui, "Segoe UI", Roboto, Arial, sans-serif;
+    line-height:1.5;
+    min-height:100vh;
+  }
+  .wrap{
+    max-width:1100px;
+    margin:0 auto;
+    padding: 28px 20px 60px;
+  }
+  header.top{
+    display:flex;
+    flex-direction:column;
+    gap:6px;
+    margin-bottom:28px;
+    border-bottom:1px solid var(--card-border);
+    padding-bottom:20px;
+  }
+  header.top .eyebrow{
+    color:var(--gold);
+    font-size:0.85rem;
+    letter-spacing:0.02em;
+  }
+  header.top h1{
+    font-family: ui-serif, Georgia, "Times New Roman", serif;
+    font-weight:700;
+    font-size:clamp(1.6rem, 4vw, 2.4rem);
+    margin:0;
+    letter-spacing:-0.01em;
+  }
+  header.top p{
+    color:var(--text-muted);
+    margin:2px 0 0;
+    max-width:60ch;
+    font-size:0.98rem;
+  }
+
+  .layout{
+    display:grid;
+    grid-template-columns: 240px 1fr;
+    gap: 28px;
+    align-items:start;
+  }
+  @media (max-width: 760px){
+    .layout{ grid-template-columns: 1fr; }
+    .ladder{ order: 2; }
+    .stage{ order: 1; }
+  }
+
+  /* --- ladder --- */
+  .ladder{
+    display:flex;
+    flex-direction:column;
+    position:relative;
+    padding-left: 6px;
+  }
+  .rung{
+    display:flex;
+    gap:12px;
+    align-items:flex-start;
+    position:relative;
+    padding-bottom: 26px;
+  }
+  .rung:last-child{ padding-bottom:0; }
+  .rung::before{
+    content:"";
+    position:absolute;
+    left:15px;
+    top:34px;
+    bottom:-2px;
+    width:2px;
+    background: var(--card-border);
+  }
+  .rung:last-child::before{ display:none; }
+  .rung.done::before{ background: var(--teal); }
+  .node{
+    flex:0 0 auto;
+    width:32px; height:32px;
+    border-radius:50%;
+    display:flex; align-items:center; justify-content:center;
+    font-size:0.85rem;
+    font-weight:700;
+    background: var(--bg-soft);
+    border:2px solid var(--locked);
+    color: var(--text-muted);
+    z-index:1;
+  }
+  .rung.current .node{
+    border-color: var(--gold);
+    color: var(--gold);
+    background: rgba(206,159,62,0.12);
+  }
+  .rung.done .node{
+    border-color: var(--teal);
+    background: var(--teal);
+    color:#0d1a16;
+  }
+  .rung .meta{ padding-top:4px; }
+  .rung .meta .label{
+    font-size:0.7rem;
+    text-transform:uppercase;
+    letter-spacing:0.06em;
+    color: var(--text-muted);
+  }
+  .rung.current .meta .label{ color: var(--gold); }
+  .rung .meta .job{
+    font-size:0.92rem;
+    font-weight:600;
+    color: var(--text-muted);
+  }
+  .rung.current .meta .job, .rung.done .meta .job{ color: var(--text); }
+
+  /* --- stage --- */
+  .stage{
+    background: var(--card);
+    border:1px solid var(--card-border);
+    border-radius:10px;
+    padding: 28px;
+    min-height: 420px;
+  }
+  .stage-head{
+    display:flex;
+    align-items:center;
+    gap:14px;
+    margin-bottom: 6px;
+  }
+  .stage-head .icon{
+    font-size:2rem;
+    line-height:1;
+  }
+  .stage-head .titles .kicker{
+    color:var(--gold);
+    font-size:0.78rem;
+    text-transform:uppercase;
+    letter-spacing:0.06em;
+  }
+  .stage-head .titles h2{
+    font-family: ui-serif, Georgia, "Times New Roman", serif;
+    margin:2px 0 0;
+    font-size:1.5rem;
+  }
+  .scenario{
+    background: var(--bg-soft);
+    border-left:3px solid var(--gold-dim);
+    padding: 14px 16px;
+    border-radius: 0 6px 6px 0;
+    margin: 18px 0 22px;
+    font-size:0.96rem;
+    color: var(--text);
+  }
+  .scenario b{ color: var(--gold); }
+  .doc-table{
+    width:100%;
+    border-collapse:collapse;
+    margin: 10px 0 4px;
+    font-size:0.88rem;
+  }
+  .doc-table th, .doc-table td{
+    border:1px solid var(--card-border);
+    padding:5px 8px;
+    text-align:right;
+  }
+  .doc-table th{ text-align:left; color:var(--text-muted); font-weight:600; }
+  .doc-table td:first-child, .doc-table th:first-child{ text-align:left; }
+
+  .question{
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid var(--card-border);
+  }
+  .question:last-of-type{ border-bottom:none; }
+  .question .q-prompt{ font-weight:600; margin-bottom:10px; }
+  .answer-row{
+    display:flex;
+    align-items:center;
+    gap:8px;
+    flex-wrap:wrap;
+  }
+  input[type=number]{
+    width:140px;
+    padding:8px 10px;
+    border-radius:6px;
+    border:1px solid var(--card-border);
+    background: var(--bg-soft);
+    color: var(--text);
+    font-size:1rem;
+  }
+  input[type=number]:focus{ outline:2px solid var(--gold); outline-offset:1px; }
+  .unit{ color:var(--text-muted); font-size:0.9rem; }
+  .mcq-options{ display:flex; flex-direction:column; gap:8px; }
+  .mcq-options label{
+    display:flex; align-items:center; gap:10px;
+    padding:9px 12px;
+    border:1px solid var(--card-border);
+    border-radius:6px;
+    cursor:pointer;
+    background: var(--bg-soft);
+  }
+  .mcq-options label:hover{ border-color: var(--gold-dim); }
+  .mcq-options input{ accent-color: var(--gold); }
+
+  .feedback{
+    margin-top:10px;
+    font-size:0.9rem;
+    padding:8px 10px;
+    border-radius:6px;
+    display:none;
+  }
+  .feedback.ok{ display:block; background: rgba(62,156,130,0.15); color:#8fd9c4; border:1px solid var(--teal); }
+  .feedback.bad{ display:block; background: rgba(180,72,46,0.15); color:#f0a48f; border:1px solid var(--brick); }
+
+  .actions{
+    display:flex;
+    align-items:center;
+    gap:14px;
+    margin-top: 24px;
+    flex-wrap:wrap;
+  }
+  button.primary{
+    background: var(--gold);
+    color:#241a05;
+    border:none;
+    font-weight:700;
+    font-size:0.98rem;
+    padding:11px 22px;
+    border-radius:6px;
+    cursor:pointer;
+  }
+  button.primary:hover{ filter:brightness(1.08); }
+  button.primary:disabled{
+    background: var(--locked);
+    color: var(--text-muted);
+    cursor:not-allowed;
+  }
+  button.ghost{
+    background:transparent;
+    border:1px solid var(--card-border);
+    color: var(--text-muted);
+    padding:10px 16px;
+    border-radius:6px;
+    font-size:0.88rem;
+    cursor:pointer;
+  }
+  button.ghost:hover{ color:var(--text); border-color:var(--text-muted); }
+  .teacher-link{
+    margin-left:auto;
+    font-size:0.78rem;
+    color: var(--text-muted);
+    background:none;
+    border:none;
+    text-decoration:underline;
+    cursor:pointer;
+  }
+  .solution-box{
+    display:none;
+    margin-top:14px;
+    background: rgba(206,159,62,0.08);
+    border:1px dashed var(--gold-dim);
+    border-radius:6px;
+    padding:12px 14px;
+    font-size:0.9rem;
+  }
+  .solution-box.show{ display:block; }
+
+  .promotion-banner{
+    display:none;
+    text-align:center;
+    padding: 40px 20px;
+  }
+  .promotion-banner.show{ display:block; }
+  .promotion-banner .trophy{ font-size:3rem; }
+  .promotion-banner h2{
+    font-family: ui-serif, Georgia, "Times New Roman", serif;
+    font-size:1.8rem;
+    margin: 10px 0 6px;
+    color: var(--gold);
+  }
+  .promotion-banner p{ color: var(--text-muted); max-width:46ch; margin:0 auto; }
+
+  .finale{
+    display:none;
+    text-align:center;
+    padding: 50px 20px;
+  }
+  .finale.show{ display:block; }
+  .finale .trophy{ font-size:4rem; }
+  .finale h2{
+    font-family: ui-serif, Georgia, "Times New Roman", serif;
+    font-size:2.1rem;
+    color: var(--gold);
+    margin:14px 0 8px;
+  }
+  .finale p{ color:var(--text-muted); max-width:52ch; margin:0 auto 20px; }
+
+  footer.foot{
+    margin-top: 30px;
+    text-align:center;
+    color: var(--text-muted);
+    font-size:0.8rem;
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="top">
+    <div class="eyebrow">Co-intervention Commerce/Vente — Mathématiques</div>
+    <h1>De la friperie à la direction</h1>
+    <p>Progresse dans ta carrière de commerçant en réussissant les missions confiées à chaque poste. Chaque activité réussie te fait monter d'un échelon.</p>
+  </header>
+
+  <div class="layout">
+    <nav class="ladder" id="ladder"></nav>
+
+    <main class="stage" id="stage">
+      <!-- filled by JS -->
+    </main>
+  </div>
+
+  <footer class="foot">Jeu de progression construit à partir des activités de co-enseignement Commerce/Vente – Maths/Sciences.</footer>
+</div>
+
+<script>
+const levels = [
+  {
+    job: "Vendeur / Vendeuse en friperie",
+    icon: "🧥",
+    kicker: "Niveau 1 · Premiers pas",
+    scenario: `Tu débutes comme vendeur/se dans une petite friperie. Ce soir, tu fermes seul(e) : ton responsable te demande de préparer le <b>fond de caisse</b> pour demain, en comptant les pièces et billets présents dans le tiroir-caisse.`,
+    table: `
+      <table class="doc-table">
+        <tr><th>Dénomination</th><th>Quantité</th><th>Montant</th></tr>
+        <tr><td>0,10 €</td><td>24</td><td>?</td></tr>
+        <tr><td>0,20 €</td><td>20</td><td>?</td></tr>
+        <tr><td>0,50 €</td><td>5</td><td>?</td></tr>
+        <tr><td>1 €</td><td>8</td><td>?</td></tr>
+        <tr><td>2 €</td><td>12</td><td>?</td></tr>
+        <tr><td>5 €</td><td>9</td><td>?</td></tr>
+        <tr><td>10 €</td><td>6</td><td>?</td></tr>
+        <tr><td>20 €</td><td>4</td><td>?</td></tr>
+      </table>`,
+    questions: [
+      {
+        type:"number",
+        prompt:"Quel est le montant total en pièces (0,10 € à 2 €) ?",
+        unit:"€",
+        answer: 40.90,
+        tol:0.05,
+        explain:"0,10×24 + 0,20×20 + 0,50×5 + 1×8 + 2×12 = 2,40 + 4,00 + 2,50 + 8,00 + 24,00 = 40,90 €"
+      },
+      {
+        type:"number",
+        prompt:"Quel est le montant total du fond de caisse (pièces + billets) ?",
+        unit:"€",
+        answer: 225.90,
+        tol:0.05,
+        explain:"Billets : 5×9 + 10×6 + 20×4 = 45 + 60 + 80 = 185,00 €. Total = 40,90 + 185,00 = 225,90 €"
+      }
+    ],
+    success:"Le fond de caisse est juste au centime près. Ton responsable te confie déjà plus de responsabilités !"
+  },
+  {
+    job: "Vendeur / Vendeuse confirmé(e)",
+    icon: "🧾",
+    kicker: "Niveau 2 · Sur la route",
+    scenario: `Tu es maintenant commercial/e pour <b>Spa Jacuzzi Détente</b>. Tu as participé à la foire Forme et Bien-être à Mégacité-Amiens (déplacement Amiens–Calais–Amiens, 320 km, 2 nuitées). Tu dois calculer ta note de frais.`,
+    table: `
+      <table class="doc-table">
+        <tr><th>Règle</th><th>Barème</th></tr>
+        <tr><td>Déplacement</td><td>km × 0,543 €</td></tr>
+        <tr><td>Restauration</td><td>forfait max 30 € / jour</td></tr>
+        <tr><td>Hébergement</td><td>remboursé au réel, max 55 € / nuitée, petit déj. inclus</td></tr>
+      </table>
+      <table class="doc-table">
+        <tr><th>Jour</th><th>Repas</th></tr>
+        <tr><td>15/11</td><td>12,50 € + 20,00 €</td></tr>
+        <tr><td>16/11</td><td>10,50 € + 20,00 €</td></tr>
+        <tr><td>17/11</td><td>13,50 €</td></tr>
+      </table>`,
+    questions: [
+      {
+        type:"number",
+        prompt:"Quel est le montant des frais de déplacement remboursés ?",
+        unit:"€",
+        answer: 173.76,
+        tol:0.05,
+        explain:"320 km × 0,543 = 173,76 €"
+      },
+      {
+        type:"number",
+        prompt:"Quel est le montant total des frais de restauration remboursés (attention au plafond de 30 €/jour) ?",
+        unit:"€",
+        answer: 73.50,
+        tol:0.1,
+        explain:"15/11 : 32,50 € → plafonné à 30 €. 16/11 : 30,50 € → plafonné à 30 €. 17/11 : 13,50 € (sous le plafond). Total = 30 + 30 + 13,50 = 73,50 €"
+      },
+      {
+        type:"number",
+        prompt:"L'hébergement (104 € pour 2 nuitées, petit déjeuner inclus) est-il intégralement remboursé ? Indique le montant remboursé.",
+        unit:"€",
+        answer: 104.00,
+        tol:0.05,
+        explain:"104 € / 2 nuitées = 52 €/nuitée, ce qui est inférieur au plafond de 55 €. L'hébergement est donc remboursé en intégralité : 104,00 €"
+      }
+    ],
+    success:"Note de frais impeccable — pas un centime de trop réclamé au plafond. Le service commercial repère ton sérieux."
+  },
+  {
+    job: "Assistant(e) commercial(e)",
+    icon: "📞",
+    kicker: "Niveau 3 · Sur le terrain",
+    scenario: `Tu travailles chez Triumph Seclin. Pour la soirée client <b>« Triumph Legend »</b>, chaque vendeur a téléphoné à des clients pour les inviter. Le vendeur qui aura fait venir le plus de monde gagne une journée de pilotage moto.`,
+    table: `
+      <table class="doc-table">
+        <tr><th>Vendeur</th><th>Appels</th><th>Présents à la soirée</th><th>Part des invités présents</th></tr>
+        <tr><td>Abdel</td><td>68</td><td>31</td><td>22,96 %</td></tr>
+        <tr><td>Sarah</td><td>56</td><td>29</td><td>21,48 %</td></tr>
+        <tr><td>Julien</td><td>72</td><td>41</td><td>30,37 %</td></tr>
+        <tr><td>François</td><td>51</td><td>21</td><td>15,56 %</td></tr>
+        <tr><td>Clara</td><td>48</td><td>13</td><td>9,63 %</td></tr>
+      </table>`,
+    questions: [
+      {
+        type:"number",
+        prompt:"Quelle est l'efficacité d'Abdel, c'est-à-dire le pourcentage de clients venus par rapport au nombre d'appels passés ?",
+        unit:"%",
+        answer: 45.59,
+        tol:0.3,
+        explain:"31 présents / 68 appels × 100 = 45,59 %"
+      },
+      {
+        type:"mcq",
+        prompt:"Qui remporte le challenge (le vendeur qui fait venir la plus grande part des invités présents à la soirée) ?",
+        options:["Abdel","Sarah","Julien","François"],
+        answer:2,
+        explain:"Julien obtient la meilleure part d'invités présents (30,37 %), la plus élevée de l'équipe."
+      }
+    ],
+    success:"Ton analyse des ratios de prospection est solide. Direction : le rayon !"
+  },
+  {
+    job: "Responsable de rayon",
+    icon: "🍫",
+    kicker: "Niveau 4 · Performance rayon",
+    scenario: `Tu es responsable du rayon épicerie d'un hypermarché. Tu analyses le sous-rayon <b>« chocolat en tablettes »</b> : segment « Noir à déguster », CA TTC de 8 580 € (TVA 20 %), coefficient multiplicateur national moyen 1,350.`,
+    table:"",
+    questions: [
+      {
+        type:"number",
+        prompt:"Calcule le chiffre d'affaires HT du segment « Noir à déguster » (CA TTC 8 580 €, TVA 20 %).",
+        unit:"€",
+        answer: 7150.00,
+        tol:1,
+        explain:"CA HT = 8 580 / 1,20 = 7 150,00 €"
+      },
+      {
+        type:"mcq",
+        prompt:"Le segment « Lait noisettes » a un coefficient multiplicateur de 1,733, contre 1,350 en moyenne nationale. Comment se situe-t-il ?",
+        options:["En dessous de la moyenne nationale","Dans la moyenne nationale","Au-dessus de la moyenne nationale"],
+        answer:2,
+        explain:"1,733 > 1,350 : le segment se situe nettement au-dessus de la moyenne nationale."
+      },
+      {
+        type:"number",
+        prompt:"45 % des tablettes portent une pastille gagnante, et 70 % de ces tablettes gagnantes sont du chocolat « Noir à déguster ». Quel pourcentage de l'ensemble des tablettes est à la fois « Noir à déguster » ET gagnant ?",
+        unit:"%",
+        answer: 31.5,
+        tol:0.5,
+        explain:"45 % × 70 % = 0,45 × 0,70 = 0,315 → 31,5 %"
+      }
+    ],
+    success:"Le rayon tourne bien sous ta responsabilité. On te propose de piloter le lancement d'un nouveau produit."
+  },
+  {
+    job: "Chef / Cheffe de produit",
+    icon: "🍬",
+    kicker: "Niveau 5 · Lancement produit",
+    scenario: `Chez All-in-Wood, tu suis le lancement du <b>TooBon</b>, premier chewing-gum 100 % végétal. Tu dois analyser les résultats des deux premiers mois de commercialisation.`,
+    table: `
+      <table class="doc-table">
+        <tr><th>Mois</th><th>Prospects</th><th>Clients</th><th>CA prévu</th><th>CA réalisé</th></tr>
+        <tr><td>Janvier</td><td>80</td><td>18</td><td>6 000 €</td><td>5 140 €</td></tr>
+        <tr><td>Février</td><td>75</td><td>26</td><td>7 000 €</td><td>6 580 €</td></tr>
+      </table>`,
+    questions: [
+      {
+        type:"number",
+        prompt:"Quel est le taux de transformation de janvier (clients / prospects) ?",
+        unit:"%",
+        answer: 22.5,
+        tol:0.3,
+        explain:"18 / 80 × 100 = 22,50 %"
+      },
+      {
+        type:"number",
+        prompt:"Quel est l'écart en valeur entre le CA réalisé et le CA prévu en janvier ?",
+        unit:"€",
+        answer: -860,
+        tol:2,
+        explain:"5 140 − 6 000 = − 860 €"
+      },
+      {
+        type:"number",
+        prompt:"Quel est cet écart exprimé en pourcentage du CA prévu ?",
+        unit:"%",
+        answer: -14.33,
+        tol:0.3,
+        explain:"− 860 / 6 000 × 100 ≈ − 14,33 %"
+      },
+      {
+        type:"number",
+        prompt:"Quel est le taux d'évolution du CA réalisé entre janvier et février ?",
+        unit:"%",
+        answer: 28.02,
+        tol:0.3,
+        explain:"(6 580 − 5 140) / 5 140 × 100 ≈ 28,02 %"
+      }
+    ],
+    success:"Ton analyse convainc la direction régionale de poursuivre l'action TooBon. Une agence te confie ses rayons."
+  },
+  {
+    job: "Responsable de magasin",
+    icon: "🏷️",
+    kicker: "Niveau 6 · Soldes",
+    scenario: `Tu diriges un magasin qui prépare les soldes d'hiver. Une veste est vendue <b>89 €</b>. Le magasin applique une première démarque de <b>-30 %</b>, puis une seconde démarque de <b>-20 %</b> sur le prix déjà soldé.`,
+    table:"",
+    questions: [
+      {
+        type:"number",
+        prompt:"Quel est le prix après la première démarque (-30 %) ?",
+        unit:"€",
+        answer: 62.30,
+        tol:0.1,
+        explain:"89 × (1 − 0,30) = 89 × 0,70 = 62,30 €"
+      },
+      {
+        type:"number",
+        prompt:"Quel est le prix final après la seconde démarque (-20 % supplémentaires) ?",
+        unit:"€",
+        answer: 49.84,
+        tol:0.1,
+        explain:"62,30 × (1 − 0,20) = 62,30 × 0,80 = 49,84 €"
+      },
+      {
+        type:"mcq",
+        prompt:"Le taux de remise global par rapport au prix initial est-il égal à 30 % + 20 % = 50 % ?",
+        options:["Oui, les remises s'additionnent simplement","Non, le taux global réel est d'environ 44 %"],
+        answer:1,
+        explain:"(89 − 49,84) / 89 × 100 ≈ 44,00 %. Deux remises successives ne s'additionnent jamais directement : la seconde remise s'applique sur un prix déjà réduit."
+      }
+    ],
+    success:"Tu maîtrises les remises successives, un classique piège à commerçants. La direction régionale te repère."
+  },
+  {
+    job: "Directeur / Directrice d'enseigne",
+    icon: "🏢",
+    kicker: "Niveau 7 · Vision réseau",
+    scenario: `Tu diriges désormais un réseau de 5 magasins. Tu dois présenter le bilan mensuel du réseau au comité de direction.`,
+    table: `
+      <table class="doc-table">
+        <tr><th>Magasin</th><th>CA mensuel</th></tr>
+        <tr><td>A</td><td>45 000 €</td></tr>
+        <tr><td>B</td><td>52 000 €</td></tr>
+        <tr><td>C</td><td>38 000 €</td></tr>
+        <tr><td>D</td><td>61 000 €</td></tr>
+        <tr><td>E</td><td>47 000 €</td></tr>
+      </table>`,
+    questions: [
+      {
+        type:"number",
+        prompt:"Quel est le chiffre d'affaires moyen mensuel du réseau ?",
+        unit:"€",
+        answer: 48600,
+        tol:20,
+        explain:"(45 000+52 000+38 000+61 000+47 000) / 5 = 243 000 / 5 = 48 600 €"
+      },
+      {
+        type:"mcq",
+        prompt:"Quel magasin dépasse le plus la moyenne du réseau ?",
+        options:["Magasin A","Magasin B","Magasin D","Magasin E"],
+        answer:2,
+        explain:"Le magasin D réalise 61 000 €, soit 12 400 € de plus que la moyenne (48 600 €) — l'écart le plus important du réseau."
+      },
+      {
+        type:"number",
+        prompt:"À combien s'élève l'écart du magasin D par rapport à la moyenne, en pourcentage de cette moyenne ?",
+        unit:"%",
+        answer: 25.51,
+        tol:0.5,
+        explain:"(61 000 − 48 600) / 48 600 × 100 ≈ 25,51 %"
+      }
+    ],
+    success:"FINALE"
+  }
+];
+
+let current = 0;
+const passed = new Array(levels.length).fill(false);
+
+function renderLadder(){
+  const ladder = document.getElementById('ladder');
+  ladder.innerHTML = levels.map((lvl, i) => {
+    let cls = "rung";
+    if (passed[i]) cls += " done";
+    else if (i === current) cls += " current";
+    const nodeContent = passed[i] ? "✓" : (i+1);
+    return `<div class="${cls}">
+      <div class="node">${nodeContent}</div>
+      <div class="meta">
+        <div class="label">${lvl.kicker.split('·')[0].trim()}</div>
+        <div class="job">${lvl.icon} ${lvl.job}</div>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+function renderStage(){
+  const stage = document.getElementById('stage');
+  if (current >= levels.length){
+    stage.innerHTML = `<div class="finale show">
+      <div class="trophy">🏆</div>
+      <h2>Directeur / Directrice d'enseigne</h2>
+      <p>Tu es parti(e) d'une petite friperie et tu diriges aujourd'hui tout un réseau de magasins. Ton parcours prouve que chaque calcul, chaque tableau, chaque ratio compte dans une carrière commerciale.</p>
+      <button class="primary" onclick="restart()">Recommencer une carrière</button>
+    </div>`;
+    return;
+  }
+
+  const lvl = levels[current];
+  const qHtml = lvl.questions.map((q, qi) => {
+    if (q.type === "number"){
+      return `<div class="question" data-qi="${qi}">
+        <div class="q-prompt">${q.prompt}</div>
+        <div class="answer-row">
+          <input type="number" step="0.01" id="q-${current}-${qi}">
+          <span class="unit">${q.unit}</span>
+        </div>
+        <div class="feedback" id="fb-${current}-${qi}"></div>
+      </div>`;
+    } else {
+      const opts = q.options.map((opt, oi) => `
+        <label>
+          <input type="radio" name="q-${current}-${qi}" value="${oi}">
+          <span>${opt}</span>
+        </label>`).join('');
+      return `<div class="question" data-qi="${qi}">
+        <div class="q-prompt">${q.prompt}</div>
+        <div class="mcq-options">${opts}</div>
+        <div class="feedback" id="fb-${current}-${qi}"></div>
+      </div>`;
+    }
+  }).join('');
+
+  stage.innerHTML = `
+    <div class="stage-head">
+      <div class="icon">${lvl.icon}</div>
+      <div class="titles">
+        <div class="kicker">${lvl.kicker}</div>
+        <h2>${lvl.job}</h2>
+      </div>
+    </div>
+    <div class="scenario">${lvl.scenario}</div>
+    ${lvl.table}
+    <div id="questions">${qHtml}</div>
+    <div class="solution-box" id="solution-${current}"></div>
+    <div class="actions">
+      <button class="primary" id="validate-btn" onclick="validateLevel()">Valider mes réponses</button>
+      <button class="ghost" id="next-btn" style="display:none" onclick="nextLevel()">Niveau suivant →</button>
+      <button class="teacher-link" onclick="revealSolution()">Voir la correction</button>
+    </div>
+    <div class="promotion-banner" id="promo-${current}">
+      <div class="trophy">🎉</div>
+      <h2>Promotion !</h2>
+      <p></p>
+    </div>
+  `;
+}
+
+function checkAnswer(q, qi){
+  if (q.type === "number"){
+    const input = document.getElementById(`q-${current}-${qi}`);
+    const val = parseFloat(input.value.replace(',', '.'));
+    if (isNaN(val)) return false;
+    return Math.abs(val - q.answer) <= q.tol;
+  } else {
+    const checked = document.querySelector(`input[name="q-${current}-${qi}"]:checked`);
+    if (!checked) return false;
+    return parseInt(checked.value) === q.answer;
+  }
+}
+
+function validateLevel(){
+  const lvl = levels[current];
+  let allCorrect = true;
+  lvl.questions.forEach((q, qi) => {
+    const fb = document.getElementById(`fb-${current}-${qi}`);
+    const ok = checkAnswer(q, qi);
+    if (ok){
+      fb.className = "feedback ok";
+      fb.textContent = "✓ Correct";
+    } else {
+      fb.className = "feedback bad";
+      fb.textContent = "Pas tout à fait — vérifie ton calcul, ou consulte la correction ci-dessous.";
+      allCorrect = false;
+    }
+  });
+
+  if (allCorrect){
+    document.getElementById('validate-btn').style.display = "none";
+    document.getElementById('next-btn').style.display = "inline-block";
+    const promo = document.getElementById(`promo-${current}`);
+    promo.classList.add('show');
+    promo.querySelector('p').textContent = lvl.success === "FINALE" ? "" : lvl.success;
+    passed[current] = true;
+    renderLadder();
+  }
+}
+
+function revealSolution(){
+  const lvl = levels[current];
+  const box = document.getElementById(`solution-${current}`);
+  box.innerHTML = "<b>Corrections :</b><br>" + lvl.questions.map((q,i) => `${i+1}. ${q.explain}`).join('<br>');
+  box.classList.add('show');
+}
+
+function nextLevel(){
+  current++;
+  renderLadder();
+  renderStage();
+  window.scrollTo({top:0, behavior:"smooth"});
+}
+
+function restart(){
+  current = 0;
+  passed.fill(false);
+  renderLadder();
+  renderStage();
+}
+
+renderLadder();
+renderStage();
+</script>
+</body>
+</html>
